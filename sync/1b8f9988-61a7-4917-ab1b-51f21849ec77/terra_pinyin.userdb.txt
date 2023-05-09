@@ -1,0 +1,12 @@
+# Rime user dictionary
+#@/db_name	terra_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.4
+#@/tick	5
+#@/user_id	1b8f9988-61a7-4917-ab1b-51f21849ec77
+bu4 	不	c=0 d=0.0995012 t=5
+bu4 fa1 biao3 yi4 jian4 	不發表意見	c=1 d=1 t=5
+fa1 biao3 yi4 jian4 	發表意見	c=0 d=0.0995012 t=5
+jiu4 shi4 	就是	c=1 d=0.99005 t=5
+ni3 jue2 de2 	你覺得	c=1 d=0.980199 t=5
+zen3 me5 yang4 	怎麼樣	c=2 d=1.98012 t=5

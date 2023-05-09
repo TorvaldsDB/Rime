@@ -1,0 +1,67 @@
+__build_info:
+  rime_version: 1.8.5
+  timestamps:
+    squirrel: 1675621991
+    squirrel.custom: 1683622147
+app_options:
+  "com.termius-dmg.mac":
+    ascii_mode: true
+chord_duration: 0.1
+config_version: 0.37
+keyboard_layout: default
+preset_color_schemes:
+  calm:
+    back_color: 0xEFEFF4
+    border_color: 0x8E8E93
+    border_height: 5
+    border_width: 10
+    candidate_format: "%c %@ "
+    candidate_text_color: 0x888888
+    comment_text_color: 0x5AC461
+    corner_radius: 5
+    font_point: 20
+    hilited_back_color: 0xEFEFF4
+    hilited_candidate_back_color: 0x00ffffff
+    hilited_candidate_label_color: 0x888888
+    hilited_candidate_text_color: 0x000000
+    hilited_comment_text_color: 0xF19C38
+    hilited_text_color: 0x8E8E93
+    horizontal: true
+    inline_preedit: true
+    label_color: 0x8E8E93
+    label_font_point: 18
+    line_spacing: 5
+    name: "安静"
+    spacing: 5
+  roseo_maple:
+    alpha: 1.0
+    author: "KyleBing <http://kylebing.cn>"
+    back_color: 0xF4F4F6
+    base_offset: 0
+    border_color: 0xffffff
+    border_height: 5
+    border_width: 0
+    candidate_format: "%c %@ "
+    candidate_text_color: 0x222222
+    comment_font_face: "PingFang SC"
+    comment_font_point: 16
+    comment_text_color: 0x5AC461
+    corner_radius: 5
+    font_point: 18
+    hilited_back_color: 0xEFEFF4
+    hilited_candidate_back_color: 0xEDEDF9
+    hilited_candidate_label_color: 0x884F11FA
+    hilited_candidate_text_color: 0x4F11FA
+    hilited_comment_text_color: 0xF19C38
+    hilited_corner_radius: 5
+    hilited_text_color: 0x8E8E93
+    horizontal: true
+    inline_preedit: true
+    label_color: 0xaaaaaa
+    line_spacing: 5
+    name: "玫枫 / Roseo Maple"
+    preedit_back_color: 0x364572
+    spacing: 5
+show_notifications_when: appropriate
+style:
+  color_scheme: roseo_maple

@@ -1,0 +1,10 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.4
+#@/tick	4
+#@/user_id	1b8f9988-61a7-4917-ab1b-51f21849ec77
+chai liang 	拆量	c=1 d=1 t=4
+hao de 	好的	c=1 d=0.985112 t=4
+ke yi 	可以	c=1 d=0.995012 t=4
+wo jue de 	我覺得	c=1 d=0.99005 t=4

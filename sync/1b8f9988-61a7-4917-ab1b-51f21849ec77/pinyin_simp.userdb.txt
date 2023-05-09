@@ -1,0 +1,15 @@
+# Rime user dictionary
+#@/db_name	pinyin_simp
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	5
+#@/user_id	1b8f9988-61a7-4917-ab1b-51f21849ec77
+a 	啊	c=1 d=0.985112 t=5
+hao de 	好的	c=1 d=0.980199 t=5
+ji 	及	c=1 d=1 t=5
+jue de 	觉得	c=0 d=0.0985112 t=5
+me yang 	么样	c=0 d=0.099005 t=5
+ni 	你	c=0 d=0.0985112 t=5
+ni jue de 	你觉得	c=1 d=0.99005 t=5
+zhe ne 	着呢	c=0 d=0.099005 t=5
+zhe ne me yang 	着呢么样	c=1 d=0.995012 t=5
