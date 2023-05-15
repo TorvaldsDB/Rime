@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     default: 1675621991
-    default.custom: 1683625071
+    default.custom: 1683625463
     key_bindings: 1675621991
     key_bindings.custom: 0
     punctuation: 1675621991
@@ -38,6 +38,8 @@ key_binder:
     - {accept: apostrophe, send: 3, when: has_menu}
     - {accept: bracketleft, send: Page_Up, when: has_menu}
     - {accept: bracketright, send: Page_Down, when: has_menu}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
     - {accept: "Shift+Tab", send: Page_Up, when: has_menu}
     - {accept: Tab, send: Page_Down, when: has_menu}
     - {accept: Return, send: Escape, when: composing}
