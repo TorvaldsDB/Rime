@@ -106,6 +106,14 @@ function date_translator(input, seg)
         yield(Candidate("month", seg.start, seg._end, os.date("%B"), ""))
         yield(Candidate("month", seg.start, seg._end, os.date("%b"), "缩写"))
     end
+
+    -- 输入家庭住址
+    if (input == "home") then
+        yield(Candidate("home", seg.start, seg._end, "上海市浦东新区鹤永路600弄32号702室", ""))
+    end
+
+    -- 输入phone
+    if (input == "phone") then
+        yield(Candidate("phone", seg.start, seg._end, "16602132485", ""))
+    end
 end
-
-
