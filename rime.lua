@@ -109,11 +109,19 @@ function date_translator(input, seg)
 
     -- 输入家庭住址
     if (input == "home") then
-        yield(Candidate("home", seg.start, seg._end, "上海市浦东新区鹤永路600弄32号702室", ""))
+        yield(Candidate("home", seg.start, seg._end, "上海市浦东新区鹤永路600弄", ""))
     end
 
     -- 输入phone
     if (input == "phone") then
         yield(Candidate("phone", seg.start, seg._end, "16602132485", ""))
+        yield(Candidate("phone", seg.start, seg._end, "15800515405", "媳妇"))
+    end
+
+    -- 输入name
+    if (input == "name") then
+        yield(Candidate("name", seg.start, seg._end, "杜冰", ""))
+        yield(Candidate("name", seg.start, seg._end, "袁盼", "媳妇"))
+        yield(Candidate("name", seg.start, seg._end, "杜熠菲", "女儿"))
     end
 end
