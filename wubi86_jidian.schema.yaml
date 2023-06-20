@@ -25,6 +25,9 @@ switches:
     states: [ 常用, 扩展 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
+    # 添加下面的 reset 内容：注意要与上面的字段冲齐，空格多少要一致，不然出错
+    # 1: 默认英文标点 | 0: 默认中文标点
+    reset: 1
 
 engine:
   processors:
