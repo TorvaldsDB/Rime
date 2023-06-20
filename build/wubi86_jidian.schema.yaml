@@ -8,7 +8,7 @@ __build_info:
     punctuation: 1675621991
     punctuation.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1683622147
+    wubi86_jidian.schema: 1687268312
 engine:
   filters:
     - "simplifier@tradition"
