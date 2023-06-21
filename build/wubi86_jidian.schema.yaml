@@ -8,7 +8,7 @@ __build_info:
     punctuation: 1675621991
     punctuation.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1687268312
+    wubi86_jidian.schema: 1687268357
 engine:
   filters:
     - "simplifier@tradition"
@@ -168,6 +168,7 @@ switches:
   - name: extended_charset
     states: ["常用", "扩展"]
   - name: ascii_punct
+    reset: 1
     states: ["。，", "．，"]
 tradition:
   opencc_config: s2hk.json
