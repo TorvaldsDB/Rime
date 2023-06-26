@@ -12,9 +12,9 @@ import_tables: # 此处是添加用户自定义词库的地方
   - wubi86_dict_china_cultural_cities # 中国国家历史文化名城
   - wubi86_dict_xzqh         # 中国行政区划词库
   - wubi86_dict_it           # IT 相关词库
-  # - wubi86_dict_extra        # 个人扩展词库
-  # - wubi86_dict_work         # 个人工作相关词库
-  # - wubi86_dict_user         # 个人私有词库 (生活)
+  - wubi86_dict_extra        # 个人扩展词库
+  - wubi86_dict_work         # 个人工作相关词库
+  - wubi86_dict_user         # 个人私有词库 (生活)
 
 columns:    # 码表格式
   - text    # 文字
