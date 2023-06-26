@@ -8,7 +8,7 @@ __build_info:
     punctuation: 1675621991
     punctuation.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1687268357
+    wubi86_jidian.schema: 1687773855
 engine:
   filters:
     - "simplifier@tradition"
@@ -176,10 +176,16 @@ tradition:
 translator:
   comment_format:
     - "xform/.+//"
+  db_class: tabledb
   dictionary: wubi86_jidian
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+    - "^[a-y]{1,2}$"
   enable_charset_filter: true
   enable_completion: true
   enable_encoder: false
-  enable_sentence: false
-  enable_user_dict: false
-  encode_commit_history: false
+  enable_sentence: true
+  enable_user_dict: true
+  encode_commit_history: true
+  max_phrase_length: 2
+  user_dict: user
