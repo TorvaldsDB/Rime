@@ -1,11 +1,12 @@
 var:
-  last_build_time: 1687944659
+  last_build_time: 1688008717
   option:
     zh_hant: true
   previously_selected_schema: wubi86_jidian
   schema_access_time:
     bopomofo: 1675305730
+    hepy: 1687948569
     luna_pinyin: 1675305837
-    pinyin_simp: 1687325974
+    pinyin_simp: 1688006537
     terra_pinyin: 1675305739
-    wubi86_jidian: 1687325985
+    wubi86_jidian: 1688006815

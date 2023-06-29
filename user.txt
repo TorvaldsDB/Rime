@@ -2,722 +2,1070 @@
 #@/db_name	user
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	143
-工	a	1
-工艺	aaan	3
+#@/tick	546
+工	a	2
+工艺	aaan	6
 恭敬不如从命	aagw	1
-工具	aahw	3
-节	ab	2
-节日	abjj	2
-基	ad	3
+工具	aahw	6
+节	ab	5
+节日	abjj	4
+基	ad	5
 基于	adgf	1
-其实	adpu	3
-其	adw	2
+其实	adpu	6
+其	adw	5
 其他	adwb	1
 卧槽	ahsg	2
-勤劳	akap	2
+勤劳	akap	5
 薄情无义	anfy	1
-世界	anlw	2
-艺术	ansy	12
-萤囊	apgk	2
+世界	anlw	5
+蘂	anns	1
+艺术	ansy	29
+萤囊	apgk	5
 萤	apj	1
-荣	aps	3
+营	apkk	1
+荣	aps	6
 敬	aqkt	1
 东飘西泊	assi	2
 蒂	aup	1
 蒂	auph	1
 萧	avi	2
 花	awx	1
-了	b	36
+了	b	68
 陆	bfm	1
-出	bm	4
-出现	bmgm	3
-出来	bmgo	1
-也	bn	10
+出	bm	6
+出现	bmgm	6
+出来	bmgo	2
+出手	bmrt	1
+也	bn	19
 也有	bnde	1
-也是	bnjg	2
+也是	bnjg	7
 也很	bntv	1
 聊天	bqgd	1
 陶	bqr	1
-陶	bqrm	2
+陶	bqrm	5
 孩乳	byeb	1
+以	c	1
 劲爆	caoj	1
-驰名	cbqk	4
-双	cc	5
+驰名	cbqk	10
+双	cc	8
 又	ccc	1
-又	cccc	2
-骑马找马	ccrc	4
+又	cccc	5
+又把	ccrc	1
+骑马找马	ccrc	5
 双打	ccrs	1
 双拼	ccru	5
-参	cd	2
-参加	cdlk	2
-能	ce	3
-通明	ceje	3
+参	cd	3
+参加	cdlk	4
+能	ce	6
+通明	ceje	6
 通时	cejf	1
 对	cf	1
-对此	cfhx	3
+圣朝	cffj	1
+对此	cfhx	6
 骊	cg	1
+骒	cj	1
 巴里坤哈萨克自治县	cjfe	1
+巴里坤	cjfj	7
 劝沮	clie	1
-观	cm	3
-观赏	cmip	3
-巴	cnh	6
+观	cm	5
+观赏	cmip	6
+观剧	cmnd	1
+巴戟	cnfj	1
+巴	cnh	9
 巴睖	cnhf	1
-骄傲	ctwg	4
-在	d	33
-大	dd	3
-大	dddd	1
+骄傲	ctwg	7
+在	d	62
+大	dd	5
+大	dddd	2
+大学	ddip	1
 大路	ddkh	1
 胡	de	1
-有过	defp	2
+有过	defp	5
 有待	detf	1
-大规模	dfsa	4
-三	dg	3
-三五成群	dgdv	3
-古老	dgft	3
-古风	dgmq	3
+大腹便便	deww	1
+大规模	dfsa	10
+三	dg	6
+三五成群	dgdv	6
+古老	dgft	7
+古风	dgmq	6
+三冬	dgtu	1
 在其	dhad	1
+破	dhc	2
 存在	dhdh	1
-蜚声	djfn	2
+蜚声	djfn	5
 面	dm	2
 页面	dmdm	1
 而成	dmdn	1
-而	dmj	3
-矾	dmy	3
-成	dn	4
-成了	dnbn	3
-盛大	dndd	2
-万古	dndg	3
-感慨万千	dndt	2
-万民	dnna	2
+而	dmj	6
+矾	dmy	6
+成	dn	7
+成了	dnbn	6
+盛大	dndd	5
+万古	dndg	6
+感慨万千	dndt	5
+万民	dnna	5
 万	dnv	1
-成熟	dnyb	2
-成为	dnyl	4
+成熟	dnyb	5
+成为	dnyl	9
 灰	dou	1
-盛极一时	dsgj	2
-寿星	dtjt	3
-帮手	dtrt	3
-万人空巷	dwpa	4
-春意	dwuj	2
+盛极一时	dsgj	5
+寿星	dtjt	6
+帮手	dtrt	6
+万人空巷	dwpa	10
+春意	dwuj	5
 戍	dynt	1
-有	e	24
-月	eee	5
-月	eeee	1
+太行	dytf	1
+有	e	49
+月	eee	8
+月	eeee	4
 豹胆	eeej	1
-月轮	eelw	2
+月里	eejf	1
+月轮	eelw	4
 甩	en	1
-用	et	7
-用以	etny	3
+用	et	14
+用以	etny	6
 腾	eud	1
 用户需求	eyff	2
-地	f	6
-裁	fay	3
+地	f	15
+裁	fay	4
+裁	faye	2
 地	fb	1
-地域	fbfa	3
+地域	fbfa	6
 地址	fbfh	3
 地椒	fbsh	3
-地方	fbyy	8
+地方	fbyy	16
 去	fcu	2
-城中	fdkh	3
+城中	fdkh	6
 需要	fdsv	3
-土地	fffb	2
-进一步	fghi	1
-起来	fhgo	4
+土地	fffb	5
+进一步	fghi	4
+坏	fgi	2
+十个	fgwh	1
+起来	fhgo	9
 真的	fhrq	2
 走	fhu	1
 真	fhw	3
 未平	figu	1
 进	fj	1
-乾隆	fjbt	3
-坤	fjhh	6
-嘉	fkuk	3
+乾隆	fjbt	6
+坤	fjhh	7
+嘉	fkuk	5
+嘉庆	fkyd	1
+南	fm	2
 南	fmu	2
-南京	fmyi	3
-南方	fmyy	3
-场面	fndm	2
-声	fnr	3
+南京	fmyi	6
+南方	fmyy	6
+场面	fndm	5
+声	fnr	5
 卖	fnud	1
-专门	fnuy	3
+专门	fnuy	6
 救火投薪	fora	1
-过	fp	4
+过	fp	7
+懿柔	fpcb	1
 索	fpx	1
-坨	fpxn	3
-元	fqb	2
-元宵	fqpi	2
-霜	fsh	3
+壱	fpxb	2
+坨	fpxn	6
+元	fqb	4
+无常	fqip	1
+元宵	fqpi	5
+元夕	fqqt	1
+霜	fsh	6
 霜根	fssv	1
-教	ftbt	3
-者	ftj	6
-都	ftjb	2
-老哥	ftsk	1
+教	ftbt	6
+老劲	ftca	1
+者	ftj	12
+都	ftjb	3
+老归	ftjv	1
+老哥	ftsk	3
 才会	ftwf	1
-老	ftx	2
-增添	fuig	2
-雪	fv	6
-雪山	fvmm	3
-一	g	5
-开	ga	1
-形式	gaaa	6
+老	ftx	4
+增添	fuig	5
+雪	fv	13
+雪芽	fvaa	1
+雪域	fvfa	1
+雪山	fvmm	6
+干什么	fwtc	1
+一	g	7
+开	ga	2
+形式	gaaa	13
 武功	gaal	1
-形成	gadn	2
-开发	gant	4
+形成	gadn	5
+开发	gant	7
 一世异朝市	gany	1
 开心	gany	1
-形容	gapw	2
-开始	gavc	2
-到	gc	3
-至今	gcwy	2
-天	gd	4
-天下	gdgh	1
+形容	gapw	5
+开始	gavc	4
+到	gc	8
+至今	gcwy	5
+天	gd	7
+天下	gdgh	3
 青龙幡	gdmh	2
-天山	gdmm	3
-表现	gegm	3
-于	gf	6
+天山	gdmm	6
+表现	gegm	6
+于	gf	13
 玩	gfq	1
-五	gg	8
+五	gg	17
 一起	ggfh	3
 一下	gggh	4
 一步	gghi	1
-一些	gghx	3
-一年	ggrh	2
-一种	ggtk	3
+一些	gghx	6
+一年	ggrh	5
+一种	ggtk	7
 一条	ggts	1
-五笔	ggtt	3
-一瓣	ggur	1
-一首	ggut	3
-一度	ggya	2
-一夜	ggyw	1
+五笔	ggtt	5
+一瓣	ggur	2
+一首	ggut	6
+一度	ggya	4
+一夜	ggyw	2
 一座	ggyw	2
 五夜	ggyw	3
 下载	ghfa	1
-不	gi	5
+不	gi	8
 不对	gicf	1
-不再	gigm	2
-不灭	gigo	2
+不再	gigm	4
+不灭	gigo	5
 不是	gijg	1
 还是	gijg	2
 否	gik	1
-还	gip	3
-不可	gisk	3
+不足	gikh	1
+还	gip	5
+不可	gisk	6
 还要	gisv	1
 不会	giwf	1
-不化	giwx	5
-不绝	gixq	3
+不化	giwx	11
+不绝	gixq	6
 不义	giyq	1
+不夜	giyw	1
 囊	gkhe	1
 逗乐	gkqi	1
-盏	glf	2
-现在	gmdh	4
+盏	glf	5
+画境	glfu	1
+现在	gmdh	7
 再	gmf	1
+刺激	gmir	1
 两	gmww	1
-与	gn	5
-来	go	11
+与	gn	8
+来	go	22
 严严	gogo	1
 灭	goi	1
-碧空	grpw	2
-玉树	gysc	2
-上	h	7
+一年一度	grgy	1
+珠玉	grgy	1
+碧空	grpw	5
+与众不同	gwgm	1
+玉树	gysc	5
+上	h	15
 歧视	hfpy	1
 上下文	hgyy	1
-上元	hhfq	6
+上元	hhfq	12
 上下	hhgh	1
 上海	hhit	1
 点	hko	1
 睥	hr	1
+盯	hs	2
 睡觉	htip	1
 此	hx	1
-不	i	12
+不	i	15
 滛	ierm	1
+汪	ig	1
 清	ige	1
 添加	iglk	1
-清代	igwa	3
+清代	igwa	6
 小	ih	4
 小区	ihaq	1
 小窗	ihpw	1
 水	ii	3
-消	iie	3
-水	iii	3
-水	iiii	2
-水晶	iijj	5
+消	iie	6
+水	iii	8
+水	iiii	3
+水晶	iijj	11
 湿	ijo	1
-湿	ijog	2
+湿	ijog	5
 没	im	1
 没有	imde	1
-油灯	imos	3
-海内外	imqh	2
-漏	infy	3
+没睡	imht	1
+油灯	imos	6
+海内外	imqh	5
+沨	imqy	1
+漏	infy	6
+渥	ingf	1
 漏尽更阑	ingu	1
 烫	inro	1
-浓	ipe	2
-沉	ipm	3
+小鹤双拼	ipcr	6
+浓	ipe	5
+沉	ipm	6
+觉得	iptj	1
 光	iq	1
-渔民	iqna	3
-兆	iqv	2
-少	it	1
+渔民	iqna	6
+兆	iqv	5
+少	it	2
 沲	itb	1
-活动	itfc	2
+活动	itfc	4
+省	ith	1
+浩烂	itou	1
 当	iv	2
-当时	ivjf	5
+当时	ivjf	11
 当你	ivwq	1
-兴	iw	2
-游园	iylf	6
-流行	iytf	3
-是	j	29
-最早	jbjh	6
-明月	jeee	2
-时	jf	4
-里	jfd	21
-里面	jfdm	4
+兴	iw	5
+游园	iylf	15
+流行	iytf	7
+是	j	49
+最早	jbjh	12
+明月	jeee	5
+时	jf	8
+里	jfd	36
+里面	jfdm	7
+野雁	jfdw	1
+里弄	jfga	1
 时候	jfwh	2
 量	jg	1
 题	jghm	1
-题名	jgqk	2
+题外	jgqh	2
+题名	jgqk	5
 师保	jgwk	1
-早已	jhnn	2
-日趋	jjfh	2
-日	jjjj	2
+早已	jhnn	5
+日趋	jjfh	5
+日	jjjj	4
 遇到	jmgc	1
 显示	jofi	1
-星	jtg	3
-照明	jvje	6
-昭晣	jvjr	1
-照	jvko	8
-景	jyi	2
-影	jyie	3
-影响	jykt	2
-中	k	11
-啊	kb	3
-吧	kc	1
-吗	kcg	5
+晚	jq	1
+星	jtg	6
+监眄	jthg	1
+照明	jvje	12
+昭晣	jvjr	2
+照	jvko	17
+景	jyi	4
+影	jyie	6
+景员	jykm	1
+影响	jykt	5
+中	k	22
+哈工大	kadd	1
+哎	kaq	1
+啊	kb	4
+吧	kc	2
+吗	kcg	7
 吧	kcn	1
-吐	kfg	3
-足不出户	kgby	2
-中国	khlg	5
-中心	khny	2
-中外	khqh	4
-足	khu	3
+吐	kfg	6
+足不出户	kgby	4
+中	kh	1
+中国	khlg	12
+中心	khny	5
+中外	khqh	10
+足	khu	6
 跑道	khut	1
 遗产	khut	1
 跟	khve	1
+虽	kj	2
 另	kl	1
-喂马	klcn	4
+喂马	klcn	7
 嗯嗯	klkl	1
 别人	klww	2
-叫	kn	3
+叫	kn	6
 呢	knx	1
-哈尔滨	kqip	19
+哈尔滨	kqip	45
 咋	kthf	1
 哪	kv	1
 只	kw	2
 只有	kwde	1
-啥	kwfk	1
-吕公书	kwnn	1
-唯	kwyg	1
-咏叹	kykc	3
+啥	kwfk	2
+只是	kwjg	1
+哈哈	kwkw	1
+吕公书	kwnn	2
+唯	kwyg	4
+咏叹	kykc	6
 轻工业	laog	1
-轰动	lcfc	2
-黑龙江	ldia	8
-因为	ldyl	3
+轰动	lcfc	5
+黑龙江	ldia	17
+因为	ldyl	6
+园南	lffm	1
 转	lfn	1
-黑	lfo	2
-园	lfq	4
-黑夜	lfyw	6
-车	lg	4
-畏惧	lgnh	2
-辐射	lgtm	2
+黑	lfo	5
+园	lfq	8
+园北	lfux	1
+黑夜	lfyw	12
+车	lg	6
+车声	lgfn	1
+畏惧	lgnh	5
+辐射	lgtm	5
 四	lh	1
 四声	lhfn	1
-罩	lhj	3
-四川	lhkt	3
-四射	lhtm	2
-因明论	ljyw	1
+罩	lhj	5
+四川	lhkt	7
+四射	lhtm	5
+因明论	ljyw	3
 回事	lkgk	1
 回来	lkgo	1
-加以	lkny	3
-回想	lksh	2
+加以	lkny	6
+回想	lksh	5
+回槛	lksj	2
 回头	lkud	1
 加价	lkww	1
 思遟	lnnu	1
+轮	lwx	1
 邮	mb	1
-盎然	mdqd	2
+盎然	mdqd	5
 屷	men	1
 雕虫	mfjh	1
 周日	mfjj	1
 同时	mgjf	2
-同乐	mgqi	2
+同乐	mgqi	5
 同意	mguj	1
 岁	mqu	1
-风靡	mqys	2
+风靡	mqys	5
 几个	mtwh	1
-内容	mwpw	2
+赚	muvo	1
+内容	mwpw	5
 丹	myd	2
-展出	nabm	4
-民间	nauj	3
-剧	ndj	3
+展出	nabm	10
+民间	nauj	7
+剧	ndj	5
 剧情	ndng	1
 收到	nhgc	1
 局	nnk	1
+快	nnw	3
+已经	nnxc	1
 发了	ntbn	1
 必须	nted	1
 改动	ntfc	1
-性	ntg	2
-改变	ntyo	2
+性	ntg	4
+改变	ntyo	4
 买	nudu	4
 习态	nudy	2
-习惯	nunx	5
+习惯	nunx	7
 屁股	nxem	1
-心	ny	6
-尺	nyi	3
-以后	nyrg	2
-尽	nyu	3
-以前	nyue	3
-以	nyw	10
-炬	oan	3
+心	ny	7
+尺	nyi	6
+迟	nyp	2
+以后	nyrg	5
+尽年	nyrh	1
+尽	nyu	6
+以前	nyue	6
+以	nyw	22
+炬	oan	6
 业	og	1
-凿	ogu	5
-凿	ogub	2
+凿出	ogbm	2
+炖	ogbn	1
+凿处	ogth	1
+凿	ogu	8
+凿	ogub	3
 业商	ogum	1
-烛	oj	5
+烛	oj	10
+烛红	ojxa	1
 炎	oo	1
-炎凉	oouy	3
-燃	oqdo	3
-焰	oqv	3
-灯	os	4
-灯节	osab	5
-灯盏	osgl	3
-灯笼	ostd	3
-数十	ovfg	3
-数个	ovwh	1
+炎凉	oouy	6
+烯	oqd	2
+燃	oqdo	6
+焰	oqv	6
+灯	os	7
+灯节	osab	11
+灯盏	osgl	6
+灯笼	ostd	6
+数十	ovfg	5
+数命	ovwg	1
+数个	ovwh	2
+这	p	1
+字	pb	1
 家	pe	1
-农夫	pefw	3
-寒光	pfiq	3
-寒风	pfmq	3
+农夫	pefw	6
+寒光	pfiq	6
+寒风	pfmq	6
 定	pg	1
-写过	pgfp	3
+写过	pgfp	6
 定	pgh	1
-宝号	pgkg	1
-宝贵	pgkh	2
+宣	pgj	1
+宝号	pgkg	2
+宝贵	pgkh	5
 写	pgn	2
-寂寞	phpa	2
-宫	pk	1
-宫	pkk	1
+冤天屈地	pgnf	2
+寂寞	phpa	4
+宫	pk	2
+宫	pkk	3
+官	pn	1
 之	pp	2
-之内	ppmw	3
-之	ppp	2
+之内	ppmw	6
+之	ppp	5
 之外	ppqh	1
-之冬	pptu	4
-之夜	ppyw	3
-被	puhc	4
+之冬	pptu	9
+之夜	ppyw	6
+宁南	psfm	1
+被	puhc	7
 寝睡	puht	1
+实柴	puhx	1
 安装	pvuf	1
 空	pw	1
-空心	pwny	3
+空心	pwny	6
 鹤	pwy	4
-它	px	4
-它的	pxrq	2
-神清	pyig	2
+它	px	7
+它的	pxrq	5
+神清	pyig	5
 神	pyj	1
-我	q	18
+我	q	20
+错	qaj	1
 钱	qg	4
-外	qh	2
+外	qh	4
 外头	qhud	1
-外引	qhxh	1
+外引	qhxh	2
+外纪	qhxn	1
 触目经心	qhxn	3
+乐宅	qipt	1
 名	qk	1
 名字	qkpb	1
-饮誉	qniw	2
+饮誉	qniw	5
 饼图	qnlt	1
 饶益	qnuw	1
-镂	qov	3
+镂	qov	6
 多	qq	1
 多亏	qqfn	1
 多少	qqit	2
-鑫	qqq	1
-金	qqqq	3
-猫	qtal	2
-夕	qtny	3
-独特	qttr	6
+鑫	qqq	2
+金	qqqq	6
+猫	qtal	4
+夕	qtny	5
+独特	qttr	12
 镜匣	qual	1
 留用	qyet	1
-的	r	113
+的	r	226
 找	ra	1
-描写	rapg	3
+描字	rapb	1
+描写	rapg	6
+报考	rbft	1
 报名	rbqk	1
-把	rcn	11
+把	rcn	20
 返御	rctr	2
-摇篮	retj	2
-搏	rgef	3
+摇篮	retj	5
+捕	rge	1
+搏	rgef	6
 看不到	rggc	1
-后来	rggo	3
-捕鱼	rgqg	3
-年	rh	4
-看	rhf	5
-看到	rhgc	3
+后来	rggo	6
+捕鱼	rgqg	6
+年	rh	10
+看	rhf	8
+卸载	rhfa	1
+看到	rhgc	6
 牛	rhk	1
 扑嗤	rhkb	1
 看书	rhnn	1
 看看	rhrh	1
 看着	rhud	2
-年间	rhuj	3
-挡住	riwy	3
+年间	rhuj	6
+泉骨	rime	4
+挡住	riwy	6
 提	rj	1
 提交	rjuq	3
-制	rmhj	2
-缺少	rmit	3
-制作	rmwt	8
-所	rn	3
+制	rmhj	3
+缺少	rmit	6
+制作	rmwt	19
+所	rn	6
 氪	rndq	2
-挖掘	rprn	2
-探	rpws	3
+挖掘	rprn	5
+探	rpws	6
 打	rs	2
 打开	rsga	1
+打字	rspb	3
 手	rt	1
 斤	rtt	1
 拉	ru	1
 拼	rua	1
-接	ruv	3
-热能	rvce	2
+接	ruv	6
+拦住	ruwy	1
+热能	rvce	5
 执行	rvtf	1
-热	rvyo	5
+热	rvyo	10
 推荐	rwad	1
-推出	rwbm	2
+推出	rwbm	5
 推	rwyg	1
 折线图	rxlt	1
-要	s	2
+要	s	3
 桃花脸	saew	1
-模具	sahw	2
+模具	sahw	5
 柿子椒	sbsh	1
-桶	sce	2
+桶	sce	5
 极	se	2
 极丽	segm	1
-村落	sfai	3
+村落	sfai	6
 配置	sglf	1
 想	shn	2
 想料	shou	1
-相继	shxo	3
+相继	shxo	6
 可能	skce	1
-可以	skny	9
-歌	sksw	3
+可以	skny	12
+歌	sksw	6
 相习成风	sndm	2
 杜熠菲	soad	1
 哥本哈根	ssks	1
-木桶	sssc	3
+木桶	sssc	6
+梅腮	stel	1
 柱状图	sult	1
-松嫩平原	svgd	3
-和	t	16
-长	ta	3
-长诗	tayf	3
-彻夜	tayw	3
-智慧	tddh	2
+松嫩平原	svgd	6
+和	t	34
+长	ta	6
+长诗	tayf	6
+彻夜	tayw	6
+智慧	tddh	5
 知道	tdut	1
 秀	te	1
-等	tffu	3
-千	tfk	4
+盘	tel	2
+等	tffu	6
+千	tfk	10
 选中	tfkh	1
-德	tfl	3
+造	tfkp	1
+德	tfl	6
 毛	tfn	2
 先	tfq	2
 等等	tftf	1
-生活	tgit	3
+造词	tfyn	1
+生活	tgit	6
 条形图	tglt	1
-处	th	3
+处	th	6
 处世	than	1
+自动	thfc	1
 知止不殆	thgg	1
-自己	thnn	4
-自然	thqd	4
-怎么	thtc	3
+自己	thnn	6
+自然	thqd	10
+怎么	thtc	4
+片段	thwd	2
 籓	titl	1
-利用	tjet	2
-各种	tktk	2
+利用	tjet	5
+各种	tktk	4
 射	tmdf	1
 翻译	toyc	1
 悉率	toyx	1
 行色悤悤	tqtt	1
-特有	trde	2
-我国	trlg	2
-特产	trut	3
+特有	trde	4
+我国	trlg	5
+特产	trut	6
 我们	trwu	3
+笑	ttd	2
 科	tu	1
-冬天	tugd	2
-冬季	tutb	3
-冬	tuu	5
-简单	tuuj	5
-很	tve	2
-很早	tvjh	3
-每到	txgc	3
-第一	txgg	2
-每年	txrh	2
-每逢	txtd	3
-入	ty	5
+冬天	tugd	4
+冬季	tutb	6
+冬	tuu	9
+简单	tuuj	11
+知疼着痒	tuuu	1
+很难	tvcw	1
+很	tve	5
+很早	tvjh	6
+篆	txe	1
+每到	txgc	6
+第一	txgg	5
+每年	txrh	4
+每逢	txtd	6
+入	ty	11
+程序员	tykm	1
 乘高决水	tyui	1
-瘎	uadn	2
-冻	uai	3
-朔风	ubmq	3
+瘎	uadn	3
+冻	uai	6
+朔风	ubmq	6
 逆风	ubmq	1
-新春佳节	udwa	3
-半月	ufee	3
-装饰	ufqn	3
-冰	ui	33
-冰花	uiaw	2
-疫源地	uifb	2
-冰城	uifd	4
-冰雪	uifv	22
-冰光	uiiq	2
-冰灯	uios	53
+新春佳节	udwa	6
+半月	ufee	6
+装饰	ufqn	6
+美国	uglg	1
+冰	ui	62
+冰花	uiaw	5
+疫源地	uifb	5
+冰城	uifd	10
+冰霜	uifs	2
+冰雪	uifv	54
+冰光	uiiq	5
+冰景	uijy	1
+冰罩	uilh	1
+冰为	uio	1
+冰灯	uios	114
 闪光灯	uios	1
 送汤送水	uiui	1
+冰翁	uiwc	1
+冰盆	uiwv	1
+冰华	uiwx	1
 单独	ujqt	3
 部	uk	2
-问	ukd	4
+问	ukd	7
 问题	ukjg	1
-总会	ukwf	3
-曾	ul	3
+总会	ukwf	6
+曾	ul	6
+瞥见	ummq	1
 疯	umq	1
 商榷	umsp	1
-普照	uojv	2
+普贤	uojc	1
+普照	uojv	5
 痰桶	uosc	1
-资源	uqid	4
-新疆	usxf	3
-道	uthp	3
-冷冻	uwua	2
+资源	uqid	10
+新疆	usxf	8
+道	uthp	6
+冷冻	uwua	5
 准	uwy	1
-北	ux	1
+北	ux	3
 北	uxn	1
-北方	uxyy	5
-六	uy	3
-凛冽	uyug	3
+北方	uxyy	11
+六	uy	6
+凛冽	uyug	6
 辛辣	uyug	1
-发	v	2
+发	v	3
 好	vb	3
 好用	vbet	1
+好呀	vbka	1
 她	vbn	1
-好的	vbrq	1
-好像	vbwq	1
-始于	vcgf	2
-即兴	vciw	2
+好的	vbrq	2
+好像	vbwq	2
+始于	vcgf	5
+即兴	vciw	5
 姑嫂	vdvv	1
 姑娘	vdvy	1
-那	vfb	4
+寻	vf	2
+那	vfb	7
+建	vfhp	1
+那边	vflp	1
 那么	vftc	1
-妙手	virt	3
-如	vk	2
+录用	viet	1
+妙手	virt	6
+如	vk	5
 如水	vkii	1
 如果	vkjs	1
-妇女	vvvv	3
-人	w	20
+媳妇	vtvv	1
+妇女	vvvv	6
+人	w	41
 代	wa	1
-供	waw	4
+供	waw	7
 代价	waww	1
-他们	wbwu	3
+他俩	wbwg	1
+他们	wbwu	6
 仓库	wbyl	1
-公园	wclf	3
+公园	wclf	6
 公司	wcng	2
-今古奇观	wddc	2
-做成	wddn	2
-优势	wdrv	3
+今古奇观	wddc	5
+做成	wddn	5
+优势	wdrv	6
 做	wdt	1
-仍然	weqd	2
-会	wf	6
-佳节	wfab	2
-传统	wfxy	2
-传说	wfyu	3
-使其	wgad	2
-便有	wgde	2
-使用	wget	6
-全城	wgfd	2
-便	wgj	4
-便是	wgjg	2
+仍然	weqd	5
+会	wf	15
+佳节	wfab	5
+传统	wfxy	4
+传说	wfyu	6
+使其	wgad	5
+便有	wgde	4
+使用	wget	9
+全城	wgfd	5
+傲霜	wgfs	1
+便	wgj	5
+便是	wgjg	5
 倒是	wgjg	1
-便	wgjq	1
-个	wh	12
+便	wgjq	3
+个	wh	20
 修改	whnt	2
-但	wjg	1
-人山人海	wmwi	2
+但	wjg	3
+伤风败俗	wmmw	1
+人山人海	wmwi	5
 伙	wo	1
 使料所及	wore	1
-你	wq	11
+你	wq	16
 斧	wqr	1
 傲然挺立	wqru	1
-悠然自得	wqtt	3
+悠然自得	wqtt	6
 你们	wqwu	3
-体育	wsyc	2
-作	wt	3
-余	wtu	2
+体育	wsyc	5
+作	wt	6
+余	wtu	5
 伤亡	wtyn	1
-作词	wtyn	2
+作词	wtyn	5
 分支	wvfc	3
-盆	wvl	4
-从	ww	3
-人民	wwna	4
-人们	wwwu	11
+盆	wvl	10
+分钟	wvqk	1
+从	ww	6
+人民	wwna	9
+众	www	1
+人们	wwwu	23
 化	wx	1
-华夏	wxdh	2
+华夏	wxdh	5
 今古	wydg	1
 今天	wygd	1
-领导	wynf	2
-念	wynn	3
-红	xa	2
-红烛	xaoj	4
+领导	wynf	5
+念	wynn	6
+红	xa	4
+红烛	xaoj	10
 经济	xciy	1
-经贸	xcqy	2
-组织	xexk	4
-结	xf	2
+经贸	xcqy	5
+组织	xexk	10
+结	xf	4
 结	xfk	1
 续航	xfte	1
+结余	xfwt	1
 引赞	xhtf	1
 颍谷	xiww	1
-纪	xn	3
-张	xt	5
-张灯	xtos	2
-给	xw	5
+纪	xn	5
+张	xt	8
+张灯	xtos	5
+张问	xtuk	1
+给	xw	7
+给	xwg	1
 维挽	xwrq	1
 给你	xwwq	1
 比拼	xxru	1
 试试	yaya	2
-庆	yd	3
-诗	yff	3
-诗云	yffc	3
-言无二价	yffw	1
-诗人	yfww	6
+庆	yd	5
+诗	yff	6
+诗云	yffc	6
+言无二价	yffw	2
+诗人	yfww	13
 让	yh	2
 店伙	yhwo	1
-让人	yhww	2
-就	yi	7
-就是	yijg	5
-放河灯	yios	1
-为	yl	11
-高	ym	2
+让人	yhww	5
+就	yi	16
+应有	yide	1
+京城	yifd	1
+就是	yijg	8
+诮嗤	yikb	1
+放河灯	yios	2
+为	yl	23
+库内	ylmw	1
+高	ym	4
+高瓦	ymgn	1
 高	ymk	1
 调试	ymya	1
-望	yneg	3
-记载	ynfa	3
+望	yneg	6
+记载	ynfa	6
 永远	ynfq	1
-麟	ynjh	4
+词	yngk	1
+麟	ynjh	7
 记忆	ynnn	1
-记忆犹新	ynqu	2
+词锋	ynqt	1
+记忆犹新	ynqu	5
 变	yo	1
 变基	yoad	1
-变成	yodn	2
-这	yp	9
+变成	yodn	5
+这	yp	18
 这些	yphx	1
+这么	yptc	1
+这次	ypuq	1
+亮闪	ypuw	1
 这个	ypwh	11
 义	yq	1
-底	yqa	1
+底	yqa	4
 底	yqay	2
-放	yt	3
-放进	ytfj	3
-旅游	ytiy	2
-许多	ytqq	4
-说	yu	7
-谪戍	yudy	4
+放	yt	6
+放进	ytfj	6
+诱敌深入	ytit	1
+旅游	ytiy	5
+许多	ytqq	7
+诱人	ytww	1
+说	yu	10
+谪戍	yudy	7
 谪	yumd	1
-详细	yuxl	3
+详细	yuxl	6
 认	yw	2
-夜晚	ywjq	3
+夜晚	ywjq	6
 夜	ywt	1
-夜	ywty	7
-文史	yykq	3
+夜	ywty	14
+文史	yykq	6
 文案	yypv	1
 方案	yypv	1
+廪俸	yywd	1
 文件	yywr	2
-文化	yywx	2
+文化	yywx	5
+荣在	encapd	0
+荣在	encapdh	0
+了以	encbc	0
+了少	encbit	0
+了啊	encbkb	0
+了以	encbnc	0
+了少	encbnit	0
+了啊	encbnkb	0
+了以	encbnny	0
+了千	encbntf	0
+了以	encbny	0
+陶曾	encbqul	0
+了千	encbtf	0
+双炬	encccoa	0
+又把	encccrc	0
+以矾	enccdm	0
+能教	encceft	0
+观剧	enccmnd	0
+以烛	enccoj	0
+又把	enccrc	0
+在其	encdad	0
+在基	encdad	0
+大千	encddtf	0
+有了	encdeb	0
+有了	encdebn	0
+有镂	encdeqo	0
+有人	encdew	0
+有人	encdeww	0
+三冬	encdgtu	0
+在基	encdhad	0
+在盯	encdhhs	0
+在兆	encdhiq	0
+在被	encdhpu	0
+在盯	encdhs	0
+在兆	encdiq	0
+矾入	encdmty	0
+成冰	encdnui	0
+在被	encdpu	0
+有了	enceb	0
+有了	encebn	0
+月里	enceejf	0
+月里	encejf	0
+有镂	enceqo	0
+用探	encetrp	0
+用冰	encetui	0
+有人	encew	0
+有人	enceww	0
+裁雪	encfafv	0
+坏笑	encfgtt	0
+嘉庆	encfkyd	0
+南烛	encfmoj	0
+元夕	encfqqt	0
+教天	encftgd	0
+地冰在	encfud	1
+地冰在	encfudh	1
+到虽	encgckj	0
+天不	encgdgi	0
+天不	encgdi	0
+五里	encggjf	0
+五六	encgguy	0
+还在	encgid	0
+不破	encgidh	0
+还在	encgidh	0
+不夜	encgiyw	0
+来观	encgocm	0
+来消	encgoii	0
+一夜	encgyw	0
+上有	enchde	0
+上有	enche	0
+上有	enchhde	0
+上有	enchhe	0
+盯盘	enchste	0
+不破	encidh	0
+消热	enciirv	0
+湿星	encijjt	0
+沉水	encipi	0
+沉水	encipii	0
+兆麟	enciqyn	0
+兴浓	enciwip	0
+不夜	enciyw	0
+里霜	encjffs	0
+里冻	encjfua	0
+里便	encjfwg	0
+是黑	encjglf	0
+是黑	encjlf	0
+晚了	encjqb	0
+晚了	encjqbn	0
+星沉	encjtip	0
+照来	encjvgo	0
+照冰	encjvui	0
+景到	encjygc	0
+影湿	encjyij	0
+中工浩烂	enckaio	1
+中也	enckbn	0
+啊我	enckbq	0
+啊我	enckbtr	0
+吐焰	enckfoq	0
+中也	enckhbn	0
+中烯	enckhoq	0
+中燃	enckhoq	0
+虽迟	enckjny	0
+中烯	enckoq	0
+中燃	enckoq	0
+唯快	enckwnn	0
+园南	enclffm	0
+园北	enclfux	0
+车声	enclgfn	0
+赚了	encmub	0
+赚了	encmubn	0
+剧者	encndft	0
+快不	encnngi	0
+快不	encnni	0
+以矾	encnydm	0
+以烛	encnyoj	0
+尺冰	encnyui	0
+迟但	encnywj	0
+凿出	encogbm	0
+凿处	encogth	0
+烛照	encojjv	0
+烛红	encojxa	0
+燃双	encoqcc	0
+焰长	encoqta	0
+灯者	encosft	0
+为冰	encoui	0
+官宣	encpnpg	0
+之如	encppvk	0
+之如	encpvk	0
+我还	encqgi	0
+外纪	encqhxn	0
+镂五	encqogg	0
+金德	encqqtf	0
+夕月	encqte	0
+夕月	encqtee	0
+金德	encqtf	0
+猫冬	encqttu	0
+把水	encrci	0
+把水	encrcii	0
+把它	encrcpx	0
+搏为	encrgo	0
+搏为	encrgyl	0
+制冰	encrmui	0
+的诗	encrqyf	0
+热了	encrvb	0
+热了	encrvbn	0
+热念	encrvwy	0
+的诗	encryf	0
+桶等	encsctf	0
+德荣	enctfap	0
+千人	enctfw	0
+千余	enctfwt	0
+千人	enctfww	0
+处渥	encthin	0
+处漏	encthin	0
+我还	enctrgi	0
+冬足	enctukh	0
+篆上	enctxh	1
+篆上	enctxhh	1
+入冰	enctyui	0
+冻成	encuadn	0
+冰壱	encuifp	0
+冰景	encuijy	0
+冰罩	encuilh	0
+冰为	encuio	0
+冰冰	encuiui	0
+冰为	encuiyl	0
+问陶	encukbq	0
+冰为在	encuod	1
+冰为在	encuodh	1
+北园	encuxlf	0
+冰为在	encuyd	1
+冰为在	encuydh	1
+六尺	encuyny	0
+寻你	encvfwq	0
+那你	encvfwq	0
+供人	encwaw	0
+供人	encwaww	0
+会为	encwfo	0
+会为	encwfyl	0
+便有	encwge	0
+个有	encwhde	0
+个有	encwhe	0
+但到	encwjgc	0
+你寻	encwqvf	0
+人的	encwr	0
+人的	encwrq	0
+余盏	encwtgl	0
+作冰	encwtui	0
+人入	encwty	0
+盆制	encwvrm	0
+人的	encwwr	0
+人的	encwwrq	0
+人入	encwwty	0
+从盆	encwwwv	0
+结作	encxfwt	0
+张问	encxtuk	0
+就有	encyide	0
+就有	encyie	0
+就中	encyik	0
+就中	encyikh	0
+就叫	encyikn	0
+为冰	encylui	0
+高与	encymgn	0
+望之	encynp	0
+望之	encynpp	0
+底用	encyqet	0
+放个	encytwh	0
+说是	encyuj	0
+说是	encyujg	0
+夜结	encywxf	0

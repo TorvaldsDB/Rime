@@ -2,13 +2,13 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     default: 1675621991
-    default.custom: 1686581370
+    default.custom: 1687948756
     key_bindings: 1675621991
     key_bindings.custom: 0
     punctuation: 1675621991
     punctuation.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1687773855
+    wubi86_jidian.schema: 1687964741
 engine:
   filters:
     - "simplifier@tradition"
@@ -183,7 +183,7 @@ translator:
     - "^[a-y]{1,2}$"
   enable_charset_filter: true
   enable_completion: true
-  enable_encoder: false
+  enable_encoder: true
   enable_sentence: true
   enable_user_dict: true
   encode_commit_history: true

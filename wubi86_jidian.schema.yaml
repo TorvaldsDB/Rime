@@ -86,7 +86,7 @@ translator:
 
   enable_user_dict: true             # 开启用户词典，记录动态字频和用户词频
   enable_sentence: true              # 句子输入模式
-  enable_encoder: false              # 自动造词
+  enable_encoder: true              # 自动造词
   encode_commit_history: true        # 对已上屏词自动造词 (仅 table_translator 有效)
 
   max_phrase_length: 2               # 自动生成词的最大长度
