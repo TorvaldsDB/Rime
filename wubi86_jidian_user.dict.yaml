@@ -17,6 +17,15 @@ sort: original
 # `##` 两个 # 开头的会被识别为分组名，其后跟的词条就是该组的内容
 
 ...
+## 学校
+电子科技大学	jbti
+四川大学	lkdi
+中国科技大学	klti
+清北复交	iutu
+西南财经	sfmx
+西南财经大学	sfmi
+电子科大	jbtd
+
 ## 常用字
 望着	ynud	3
 莫过于	afgf
