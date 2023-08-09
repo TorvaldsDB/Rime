@@ -2,7 +2,7 @@
 #@/db_name	user
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	2818
+#@/tick	2905
 工	a	12
 式	aa	2
 工艺	aaan	6
@@ -70,7 +70,7 @@
 花呗	awkm	1
 花生	awtg	2
 花	awx	1
-了	b	170
+了	b	177
 陈	ba	2
 子	bb	3
 耶	bbh	1
@@ -134,8 +134,8 @@
 通明	ceje	6
 通时	cejf	1
 能力	celt	2
-通知	cetd	2
-对	cf	15
+通知	cetd	3
+对	cf	16
 圣朝	cffj	1
 圣上	cfhh	1
 对此	cfhx	6
@@ -158,7 +158,7 @@
 骈白	curr	1
 难	cw	2
 验伤	cwwt	1
-在	d	89
+在	d	90
 左右	dadk	1
 厝怀	dang	1
 春花秋月	date	1
@@ -168,6 +168,7 @@
 大	dd	10
 大	dddd	3
 大胆	ddej	1
+大腿	ddev	1
 大地	ddfb	1
 套餐	ddhq	1
 大学	ddip	9
@@ -184,7 +185,7 @@
 有	def	1
 有过	defp	5
 有点	dehk	1
-有待	detf	1
+有待	detf	2
 有个	dewh	1
 大腹便便	deww	1
 有人	deww	1
@@ -210,13 +211,14 @@
 破空	dhpw	1
 在线	dhxg	1
 耕械	disa	1
+非	djd	1
 蜚声	djfn	5
 非常	djip	1
 百年	djrh	1
 大罗天	dlgd	1
 历史	dlkq	1
 面	dm	2
-页面	dmdm	1
+页面	dmdm	2
 而成	dmdn	1
 而且	dmeg	1
 面目	dmhh	1
@@ -227,9 +229,9 @@
 成了	dnbn	6
 盛大	dndd	5
 万古	dndg	6
-尴尬	dndn	1
+尴尬	dndn	3
 感慨万千	dndt	5
-万一	dngg	1
+万一	dngg	2
 万民	dnna	5
 万	dnv	2
 成熟	dnyb	5
@@ -238,7 +240,7 @@
 灰心	dony	1
 灰	dou	1
 灰僇	down	1
-确实	dqpu	2
+确实	dqpu	4
 砍	dqw	2
 有钱人	dqww	1
 原因	drld	1
@@ -306,7 +308,7 @@
 支持	fcrf	1
 去年	fcrh	2
 支撑	fcri	2
-去	fcu	22
+去	fcu	23
 无能为力	fcyl	1
 需求	fdfi	1
 城中	fdkh	6
@@ -339,7 +341,7 @@
 趁早	fhjh	1
 起	fhn	1
 起飞	fhnu	1
-真的	fhrq	2
+真的	fhrq	3
 直播	fhrt	1
 直接	fhru	2
 走	fhu	3
@@ -350,6 +352,7 @@
 进	fj	2
 乾隆	fjbt	6
 进去	fjfc	1
+韩	fjfh	1
 进来	fjgo	1
 坤	fjhh	7
 坦迤	fjtb	2
@@ -364,6 +367,7 @@
 场面	fndm	5
 专用	fnet	1
 声	fnr	5
+专机	fnsm	1
 卖	fnud	1
 专门	fnuy	6
 亏	fnv	2
@@ -381,7 +385,7 @@
 无法	fqif	1
 无常	fqip	1
 无糖	fqoy	2
-远	fqp	2
+远	fqp	3
 元宵	fqpi	5
 元夕	fqqt	1
 无敌	fqtd	1
@@ -390,9 +394,9 @@
 无意	fquj	1
 无语	fqyg	1
 支气管	frtp	1
-霜	fsh	6
+霜	fsh	7
 霜根	fssv	2
-才	ft	1
+才	ft	2
 教	ftbt	6
 老劲	ftca	1
 才能	ftce	1
@@ -408,7 +412,7 @@
 老板	ftsr	1
 老弟	ftux	1
 才会	ftwf	1
-老	ftx	6
+老	ftx	7
 增添	fuig	5
 雪	fv	13
 雪芽	fvaa	1
@@ -416,8 +420,8 @@
 雪山	fvmm	6
 雪桃	fvsi	1
 干什么	fwtc	1
-一	g	23
-开	ga	9
+一	g	24
+开	ga	10
 形式	gaaa	14
 武功	gaal	2
 邢	gab	1
@@ -453,11 +457,11 @@
 一堆	ggfw	1
 王	ggg	1
 一天	gggd	3
-一下	gggh	15
+一下	gggh	16
 五	ggh	1
 一步	gghi	1
 一桌	gghj	1
-一点	gghk	2
+一点	gghk	4
 一些	gghx	6
 一波	ggih	1
 一周	ggmf	1
@@ -518,7 +522,7 @@
 不见	gimq	1
 不懂	gina	1
 不买	ginu	1
-还	gip	30
+还	gip	31
 不审	gipj	2
 不法之徒	gipt	1
 不错	giqa	2
@@ -557,7 +561,7 @@
 盏	glf	5
 画境	glfu	1
 两三	gmdg	1
-现在	gmdh	31
+现在	gmdh	33
 再	gmf	1
 现场	gmfn	1
 两天	gmgd	1
@@ -598,11 +602,13 @@
 虎	ha	2
 歧视	hfpy	1
 上下文	hgyy	1
+上去	hhfc	1
 上元	hhfq	12
 上下	hhgh	1
 上班	hhgy	1
 上学	hhip	1
 上海	hhit	3
+上车	hhlg	1
 上午	hhtf	2
 卡	hhu	1
 上线	hhxg	1
@@ -611,7 +617,7 @@
 桌椅	hjsd	1
 占	hk	2
 点子	hkbb	1
-点	hko	9
+点	hko	10
 战线	hkxg	1
 战绩	hkxg	1
 睥	hr	1
@@ -642,6 +648,7 @@
 小腿	ihev	1
 小明	ihje	1
 小时	ihjf	2
+小号	ihkg	1
 小火	ihoo	2
 小米	ihoy	1
 小窗	ihpw	1
@@ -653,14 +660,14 @@
 水	iiii	6
 水量	iijg	1
 水晶	iijj	11
-消息	iith	4
+消息	iith	5
 消化	iiwx	1
 湿	ijo	1
 湿	ijog	5
 渴	ijq	1
 没	im	13
 没了	imbn	2
-没有	imde	44
+没有	imde	48
 没事	imgk	1
 没睡	imht	1
 洞见	immq	1
@@ -691,7 +698,7 @@
 洒	is	3
 河南	isfm	2
 少	it	3
-沲	itb	2
+沲	itb	3
 活	itd	1
 洗脑	itey	1
 活动	itfc	4
@@ -722,6 +729,7 @@
 最近	jbrp	2
 最短	jbtd	1
 最好	jbvb	2
+最优	jbwd	1
 最全	jbwg	1
 最低	jbwq	2
 紧急	jcqv	1
@@ -746,7 +754,7 @@
 是的	jgrq	4
 是个	jgwh	2
 师保	jgwk	1
-早	jh	8
+早	jh	9
 早上	jhhh	3
 早点	jhhk	1
 早晚	jhjq	1
@@ -768,7 +776,7 @@
 显示	jofi	1
 晖	jplh	2
 晚	jq	2
-晚上	jqhh	1
+晚上	jqhh	2
 星	jtg	6
 昨天	jtgd	8
 监眄	jthg	1
@@ -787,12 +795,13 @@
 中	k	28
 哈工大	kadd	2
 哎	kaq	4
-啊	kb	25
+啊	kb	27
 吧	kc	28
 嗓子	kcbb	1
 吗	kcg	47
 吧	kcn	3
 顺	kdm	2
+口腹之累	kepl	1
 吸	key	1
 吐	kfg	6
 吐突	kfpw	2
@@ -819,6 +828,7 @@
 跟	khve	1
 跟你	khwq	1
 遗迹	khyo	1
+吵	kitt	1
 虽	kj	3
 喝水	kjii	1
 喝	kjq	6
@@ -830,10 +840,11 @@
 喂	klg	1
 别	klj	3
 咖啡	klkd	1
-嗯嗯	klkl	22
+嗯嗯	klkl	23
 别人	klww	3
 叫	kn	6
 叫劲	knca	2
+叫	knh	1
 呢	knx	18
 哈尔滨	kqip	45
 呜呼	kqkt	1
@@ -850,7 +861,7 @@
 川	kthh	1
 咋啦	ktkr	4
 患得患失	ktkr	1
-吃	ktn	3
+吃	ktn	4
 哦	ktr	8
 唯物辩证法	ktui	1
 吃奶	ktve	1
@@ -882,7 +893,7 @@
 园区	lfaq	1
 园南	lffm	1
 转	lfn	2
-黑	lfo	6
+黑	lfo	7
 园	lfq	8
 园北	lfux	1
 黑夜	lfyw	12
@@ -937,6 +948,7 @@
 盎然	mdqd	5
 崩浪	meiy	1
 屷	men	2
+周一	mfgg	1
 周末	mfgs	1
 雕虫	mfjh	1
 周日	mfjj	1
@@ -991,8 +1003,9 @@
 导论	nfyw	1
 悖论	nfyw	1
 屋	ngcf	1
+司机	ngsm	1
 情况	nguk	1
-收到	nhgc	1
+收到	nhgc	2
 收	nht	1
 收费	nhxj	1
 悄	ni	1
@@ -1004,15 +1017,17 @@
 局	nnk	1
 书牍	nnth	1
 快	nnw	4
-已经	nnxc	8
+已经	nnxc	9
 屡有	node	1
 屎	noi	1
 发了	ntbn	1
 属对	ntcf	1
+发	ntcy	1
 必须	nted	3
 改动	ntfc	1
 必填	ntff	1
 性	ntg	4
+属于	ntgf	1
 发现	ntgm	2
 发展	ntna	1
 属性	ntnt	3
@@ -1110,7 +1125,7 @@
 之冬	pptu	9
 之夜	ppyw	6
 宁南	psfm	1
-被	puhc	8
+被	puhc	9
 初步	puhi	2
 寝睡	puht	1
 实柴	puhx	1
@@ -1118,6 +1133,7 @@
 安全	pvwg	1
 空	pw	1
 突出	pwbm	1
+空腹	pwet	1
 容易	pwjq	1
 空心	pwny	6
 空间	pwuj	5
@@ -1128,13 +1144,16 @@
 它的	pxrq	5
 神清	pyig	5
 神	pyj	2
-我	q	113
+我	q	116
 错	qaj	2
 错误	qayk	1
 希	qdmh	1
 希望	qdyn	1
+解故	qedt	1
+解甲	qelh	2
 解决	qeun	1
-解	qevh	1
+解	qev	1
+解	qevh	2
 角度	qeya	1
 针	qf	2
 钱	qg	4
@@ -1175,6 +1194,7 @@
 多谢	qqyt	1
 钉	qs	1
 猫	qtal	5
+狂奔	qtdf	1
 猜	qtge	1
 夕	qtny	5
 猜想	qtsh	1
@@ -1187,7 +1207,7 @@
 録第	qvtx	1
 留用	qyet	1
 鸟	qyng	3
-的	r	361
+的	r	362
 找	ra	3
 拱墩	rafy	1
 找到	ragc	2
@@ -1214,6 +1234,7 @@
 授简	retu	1
 技	rfc	2
 挂扯	rfrh	1
+技术	rfsy	1
 后期	rgad	2
 白玉莲花杯	rgas	1
 后台	rgck	1
@@ -1244,7 +1265,7 @@
 扑嗤	rhkb	1
 看书	rhnn	1
 看错	rhqa	1
-看看	rhrh	14
+看看	rhrh	16
 看着	rhud	7
 年间	rhuj	6
 看好	rhvb	2
@@ -1255,6 +1276,7 @@
 提	rj	2
 提出	rjbm	1
 提到	rjgc	1
+提升	rjta	1
 提交	rjuq	4
 扣	rk	1
 拐	rkl	1
@@ -1290,7 +1312,8 @@
 打开	rsga	1
 打车	rslg	1
 打字	rspb	3
-打针	rsqf	1
+打针	rsqf	2
+打杀	rsqs	1
 打牌	rsth	1
 打算	rsth	2
 手	rt	3
@@ -1365,7 +1388,7 @@
 相互	shgx	1
 椒	shi	6
 想法	shif	1
-想	shn	10
+想	shn	11
 想尽	shny	1
 想料	shou	2
 想想	shsh	1
@@ -1376,7 +1399,7 @@
 相濡以沫	sini	1
 可	sk	1
 可能	skce	6
-可惜	skna	1
+可惜	skna	3
 可必	sknt	1
 可以	skny	35
 可乐	skqi	1
@@ -1473,7 +1496,7 @@
 得	tj	3
 利用	tjet	5
 香	tjf	2
-得	tjg	5
+得	tjg	6
 复现	tjgm	1
 复	tjt	2
 各	tk	1
@@ -1486,6 +1509,7 @@
 射	tmdf	1
 币	tmh	1
 身边	tmlp	1
+秋	to	1
 翻车	tolg	1
 愁垫	torv	1
 翻译	toyc	9
@@ -1512,7 +1536,7 @@
 知疼着痒	tuuu	1
 很能	tvce	1
 很难	tvcw	1
-很	tve	13
+很	tve	14
 很早	tvjh	6
 很快	tvnn	1
 很多	tvqq	2
@@ -1522,7 +1546,7 @@
 符合	twwg	1
 篆	txe	1
 每到	txgc	6
-每天	txgd	5
+每天	txgd	6
 第一	txgg	8
 每年	txrh	4
 每逢	txtd	6
@@ -1538,7 +1562,7 @@
 逆形	ubga	1
 朔风	ubmq	6
 逆风	ubmq	1
-差	uda	1
+差	uda	2
 卷	udbb	1
 减肥	udec	2
 减脂	udex	1
@@ -1598,6 +1622,7 @@
 疯	umq	1
 商榷	umsp	1
 决定	unpg	1
+痴眉钝眼	unqh	1
 普	uo	1
 普贤	uojc	1
 普照	uojv	5
@@ -1639,20 +1664,20 @@
 门	uyh	1
 凛冽	uyug	6
 辛辣	uyug	1
-发	v	7
-好	vb	45
+发	v	9
+好	vb	46
 好了	vbb	1
 好用	vbet	1
 好是	vbjg	1
 好呀	vbka	1
-好吧	vbkc	7
+好吧	vbkc	8
 好吃	vbkt	2
 好几	vbmt	2
 她	vbn	7
 好多	vbqq	2
 女孩儿	vbqt	1
 好看	vbrh	1
-好的	vbrq	8
+好的	vbrq	10
 好好	vbvb	2
 好像	vbwq	3
 好记	vbyn	1
@@ -1661,10 +1686,11 @@
 即兴	vciw	5
 姑嫂	vdvv	1
 姑娘	vdvy	1
+退斥	very	2
 奶奶	veve	1
 姐姐	veve	3
 寻	vf	3
-那	vfb	19
+那	vfb	20
 妹子	vfbb	1
 建	vfhp	1
 那时	vfjf	1
@@ -1672,7 +1698,7 @@
 那么	vftc	9
 那个	vfwh	9
 那你	vfwq	2
-那就	vfyi	1
+那就	vfyi	2
 妍	vga	1
 婧	vge	1
 录用	viet	1
@@ -1684,6 +1710,7 @@
 九	vt	1
 群贤	vtjc	1
 群	vtk	3
+君	vtkd	1
 媳妇	vtvv	1
 女孩	vvby	1
 女真	vvfh	1
@@ -1711,21 +1738,25 @@
 公园	wclf	6
 公司	wcng	8
 公安	wcpv	1
+优雅	wdah	1
 做了	wdbn	1
 今古奇观	wddc	5
 做成	wddn	5
 做到	wdgc	1
 优	wdn	1
+做空	wdpw	1
 优势	wdrv	7
 做	wdt	4
 佑统	wdxy	1
 估计	wdyf	2
 信用卡	wehh	1
 仍然	weqd	5
-会	wf	27
+会	wf	28
 佳节	wfab	5
 会	wfc	1
-什么	wftc	17
+侍	wff	1
+佳	wffg	1
+什么	wftc	18
 传统	wfxy	4
 传说	wfyu	6
 会议	wfyy	1
@@ -1760,8 +1791,8 @@
 人山人海	wmwi	5
 似乎	wntu	1
 伙	wo	5
-使料所及	wore	1
-你	wq	89
+使料所及	wore	2
+你	wq	93
 低	wqay	1
 佝	wqk	1
 你家	wqpe	1
@@ -1777,7 +1808,7 @@
 作	wt	6
 作用	wtet	1
 任选	wttf	1
-余	wtu	5
+余	wtu	6
 八	wty	1
 伤亡	wtyn	1
 作词	wtyn	5
@@ -1823,6 +1854,8 @@
 经济	xciy	3
 经贸	xcqy	5
 经纪	xcxn	1
+绑架	xdlk	1
+绑	xdtb	2
 级	xe	2
 缓流	xeiy	1
 组织	xexk	11
@@ -1892,13 +1925,13 @@
 让	yh	4
 店伙	yhwo	1
 让人	yhww	5
-就	yi	33
+就	yi	34
 应有	yide	1
 京城	yifd	1
-就是	yijg	22
+就是	yijg	23
 诮嗤	yikb	1
 放河灯	yios	2
-就要	yisv	1
+就要	yisv	2
 应该	yiyy	7
 刘	yj	2
 课题	yjjg	1
@@ -1936,7 +1969,7 @@
 恋情	yong	1
 谈	yoo	2
 弯折	yorr	1
-这	yp	38
+这	yp	39
 这些	yphx	3
 这是	ypj	1
 这里	ypjf	2
@@ -2143,12 +2176,14 @@
 在兆	encdhiq	0
 在吗	encdhkc	0
 在哪	encdhkv	0
+在发	encdhnt	0
 在被	encdhpu	0
 在的	encdhr	0
 在看	encdhrh	0
 在的	encdhrq	0
 在盯	encdhs	0
 在想	encdhsh	0
+在发	encdhv	0
 在你	encdhwq	0
 在不	encdi	0
 在兆	encdiq	0
@@ -2156,6 +2191,7 @@
 在哪	encdkv	0
 矾入	encdmty	0
 万把	encdnrc	0
+在发	encdnt	0
 成冰	encdnui	0
 在家	encdpe	0
 在被	encdpu	0
@@ -2167,6 +2203,7 @@
 碰要上工为	encdsho	1
 碰要上工为	encdshy	1
 帮着	encdtud	0
+在发	encdv	0
 在你	encdwq	0
 太极	encdyse	0
 有说和	encdyt	1
@@ -2207,6 +2244,8 @@
 裁雪	encfafv	0
 去了	encfcb	0
 去了	encfcbn	0
+去一	encfcg	0
+去一	encfcgg	0
 去不	encfcgi	0
 去眼	encfchv	0
 去不	encfci	0
@@ -2232,6 +2271,7 @@
 走的	encfhrq	0
 真绿	encfhxv	0
 真高	encfhym	0
+韩侍	encfjwf	0
 嘉庆	encfkyd	0
 雷不	encflgi	0
 雷不	encfli	0
@@ -2250,6 +2290,7 @@
 都不	encfti	0
 都是	encftj	0
 都是	encftjg	0
+才叫	encftkn	0
 都好	encftvb	0
 地六工为有打虎已一	encfuag	1
 地冰在	encfud	1
@@ -2344,6 +2385,7 @@
 上不	enchi	0
 点多	enchkqq	0
 点好	enchkvb	0
+点就	enchkyi	0
 上被	enchpu	0
 上看	enchrh	0
 盯盘	enchste	0
@@ -2444,6 +2486,7 @@
 早乌	encjhqn	0
 早我	encjhtr	0
 早送	encjhud	0
+早会	encjhwf	0
 是不	encji	0
 是江青	encjige	1
 是洋相	encjish	1
@@ -2484,6 +2527,7 @@
 啊我	enckbq	0
 啊朱	enckbri	0
 啊扣	enckbrk	0
+啊得	enckbtj	0
 啊我	enckbtr	0
 啊那	enckbvf	0
 啊他	enckbwb	0
@@ -2620,6 +2664,7 @@
 家我	encpeq	0
 家我	encpetr	0
 家做	encpewd	0
+这才	encpft	0
 这还	encpgi	0
 这是	encpj	0
 这是	encpjg	0
@@ -2641,6 +2686,7 @@
 我在	encqdh	0
 我有	encqe	0
 我遥	encqer	0
+解绑	encqexd	0
 我去	encqfc	0
 我都	encqft	0
 我不	encqgi	0
@@ -2817,6 +2863,7 @@
 要死	encsgq	0
 椒胡	encshde	1
 想喝	encshkj	0
+想吃	encshkt	0
 想刷	encshnm	0
 想找	encshra	0
 想看	encshrh	0
@@ -2862,6 +2909,7 @@
 算哦	encthkt	0
 算多	encthqq	0
 得干	enctjfg	0
+得远	enctjfq	0
 香不	enctjgi	0
 香不	enctji	0
 香跳	enctjkh	0
@@ -2961,6 +3009,7 @@
 好不	encvbi	0
 好贵	encvbkh	0
 好别	encvbkl	0
+好黑	encvblf	0
 发了	encvbn	0
 好为	encvbo	0
 好我	encvbq	0
@@ -3004,8 +3053,10 @@
 人在	encwdh	0
 优解	encwdqe	0
 会胡	encwfde	0
+会还	encwfgi	0
 会为	encwfo	0
 会掉	encwfrh	0
+佳君	encwfvt	0
 会为	encwfyl	0
 便有	encwge	0
 人不	encwgi	0
@@ -3063,6 +3114,7 @@
 人的	encwr	0
 人的	encwrq	0
 体脂	encwsex	0
+余霜	encwtfs	0
 余盏	encwtgl	0
 作冰	encwtui	0
 人入	encwty	0
@@ -3089,6 +3141,8 @@
 经以	encxc	0
 经以	encxcc	0
 经以	encxcny	0
+绑了	encxdb	0
+绑了	encxdbn	0
 结作	encxfwt	0
 线看	encxgrh	0
 经满怀	encxing	1
@@ -3141,6 +3195,7 @@
 谈的	encyor	0
 谈的	encyorq	0
 谈新	encyous	0
+这才	encypft	0
 这还	encypgi	0
 这是	encypj	0
 这算	encypth	0
