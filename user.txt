@@ -2,7 +2,7 @@
 #@/db_name	user
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	2905
+#@/tick	2941
 工	a	12
 式	aa	2
 工艺	aaan	6
@@ -70,7 +70,7 @@
 花呗	awkm	1
 花生	awtg	2
 花	awx	1
-了	b	177
+了	b	180
 陈	ba	2
 子	bb	3
 耶	bbh	1
@@ -84,12 +84,12 @@
 出	bm	8
 出去	bmfc	1
 出现	bmgm	6
-出来	bmgo	8
+出来	bmgo	9
 出汗	bmif	1
 出发	bmnt	1
 出钱	bmqg	2
 出手	bmrt	1
-也	bn	33
+也	bn	34
 也能	bnce	1
 也有	bnde	1
 也是	bnjg	9
@@ -113,7 +113,7 @@
 除了	bwbn	1
 险	bwgi	1
 孩子	bybb	1
-孩乳	byeb	2
+孩乳	byeb	4
 以	c	2
 劲爆	caoj	1
 驱	caq	1
@@ -136,6 +136,7 @@
 能力	celt	2
 通知	cetd	3
 对	cf	16
+对面	cfdm	1
 圣朝	cffj	1
 圣上	cfhh	1
 对此	cfhx	6
@@ -146,7 +147,7 @@
 骒	cj	1
 巴里坤哈萨克自治县	cjfe	1
 巴里坤	cjfj	7
-劝沮	clie	16
+劝沮	clie	17
 观	cm	5
 观赏	cmip	6
 观剧	cmnd	1
@@ -158,7 +159,7 @@
 骈白	curr	1
 难	cw	2
 验伤	cwwt	1
-在	d	90
+在	d	92
 左右	dadk	1
 厝怀	dang	1
 春花秋月	date	1
@@ -223,6 +224,8 @@
 而且	dmeg	1
 面目	dmhh	1
 而	dmj	7
+而后	dmrg	1
+厕所	dmrn	1
 矾	dmy	6
 布朗	dmyv	1
 成	dn	10
@@ -360,7 +363,7 @@
 嘉	fkuk	5
 嘉庆	fkyd	1
 雷	flf	1
-南	fm	4
+南	fm	6
 南	fmu	2
 南京	fmyi	6
 南方	fmyy	6
@@ -403,7 +406,7 @@
 都有	ftde	1
 考虑	ftha	3
 者	ftj	13
-都	ftjb	22
+都	ftjb	23
 都是	ftjg	1
 老归	ftjv	6
 圪针	ftqf	2
@@ -453,7 +456,7 @@
 玩	gfq	4
 五	gg	17
 一直	ggfh	6
-一起	ggfh	8
+一起	ggfh	9
 一堆	ggfw	1
 王	ggg	1
 一天	gggd	3
@@ -502,12 +505,13 @@
 不	gi	38
 不能	gice	3
 不对	gicf	1
+不在	gid	1
 不大	gidd	3
 还有	gide	8
 还在	gidh	2
 不用	giet	2
 不去	gifc	3
-不到	gigc	1
+不到	gigc	2
 不再	gigm	4
 不灭	gigo	5
 不上	gihh	1
@@ -633,8 +637,10 @@
 满	iagw	3
 潢	iamw	2
 满怀	iang	1
+治理	icgj	1
 滛	ierm	1
 法	if	1
+污染	ifiv	1
 汪	ig	2
 清	ige	2
 添加	iglk	1
@@ -718,6 +724,7 @@
 涨	ixt	1
 涨价	ixww	1
 游园	iylf	15
+沪	iyn	2
 游标	iysf	1
 流行	iytf	8
 注意	iyuj	1
@@ -819,6 +826,7 @@
 跌	khr	2
 路	kht	1
 跃	khtd	1
+路牌	khth	1
 路	khtk	1
 跟我	khtr	2
 足	khu	6
@@ -840,12 +848,13 @@
 喂	klg	1
 别	klj	3
 咖啡	klkd	1
-嗯嗯	klkl	23
+嗯嗯	klkl	24
+另外	klqh	1
 别人	klww	3
 叫	kn	6
 叫劲	knca	2
 叫	knh	1
-呢	knx	18
+呢	knx	19
 哈尔滨	kqip	45
 呜呼	kqkt	1
 听	kr	2
@@ -941,7 +950,7 @@
 图片	ltth	1
 办公室	lwpg	1
 输入	lwty	1
-办公	lwwc	3
+办公	lwwc	4
 轮	lwx	1
 同	m	2
 邮	mb	1
@@ -1089,7 +1098,7 @@
 数据	ovrn	1
 数命	ovwg	1
 数个	ovwh	2
-米	oy	1
+米	oy	2
 糖	oyvk	1
 这	p	2
 字	pb	1
@@ -1103,7 +1112,7 @@
 寒光	pfiq	6
 寒风	pfmq	6
 完	pfq	1
-定	pg	2
+定	pg	3
 写过	pgfp	6
 定	pgh	1
 宣	pgj	1
@@ -1144,7 +1153,7 @@
 它的	pxrq	5
 神清	pyig	5
 神	pyj	2
-我	q	116
+我	q	117
 错	qaj	2
 错误	qayk	1
 希	qdmh	1
@@ -1207,7 +1216,7 @@
 録第	qvtx	1
 留用	qyet	1
 鸟	qyng	3
-的	r	362
+的	r	363
 找	ra	3
 拱墩	rafy	1
 找到	ragc	2
@@ -1327,7 +1336,7 @@
 斤	rtt	1
 斤	rtth	1
 托管	rttp	1
-挺好	rtvb	2
+挺好	rtvb	3
 气血方刚	rtym	1
 拉	ru	3
 拼	rua	2
@@ -1401,7 +1410,7 @@
 可能	skce	6
 可惜	skna	3
 可必	sknt	1
-可以	skny	35
+可以	skny	36
 可乐	skqi	1
 哥	sksk	3
 歌	sksw	6
@@ -1497,7 +1506,7 @@
 利用	tjet	5
 香	tjf	2
 得	tjg	6
-复现	tjgm	1
+复现	tjgm	2
 复	tjt	2
 各	tk	1
 种子	tkbb	1
@@ -1696,7 +1705,7 @@
 那时	vfjf	1
 那边	vflp	1
 那么	vftc	9
-那个	vfwh	9
+那个	vfwh	10
 那你	vfwq	2
 那就	vfyi	2
 妍	vga	1
@@ -1735,6 +1744,7 @@
 仓库	wbyl	1
 他说	wbyu	1
 公正	wcgh	1
+公路	wckh	2
 公园	wclf	6
 公司	wcng	8
 公安	wcpv	1
@@ -1801,7 +1811,7 @@
 悠然自得	wqtt	6
 你好	wqvb	2
 爸爸	wqwq	2
-你们	wqwu	8
+你们	wqwu	9
 体	wsg	1
 休息	wsth	1
 体育	wsyc	5
@@ -1925,7 +1935,7 @@
 让	yh	4
 店伙	yhwo	1
 让人	yhww	5
-就	yi	34
+就	yi	35
 应有	yide	1
 京城	yifd	1
 就是	yijg	23
@@ -1972,7 +1982,7 @@
 这	yp	39
 这些	yphx	3
 这是	ypj	1
-这里	ypjf	2
+这里	ypjf	3
 这是	ypjg	6
 这边	yplp	3
 豪赌	ypmf	1
@@ -2015,7 +2025,7 @@
 夜	ywty	14
 於	ywu	1
 夜阑	ywug	1
-谁	ywyg	4
+谁	ywyg	6
 方式	yyaa	1
 文史	yykq	6
 文案	yypv	1
@@ -2174,6 +2184,7 @@
 在盯	encdhhs	0
 在不	encdhi	0
 在兆	encdhiq	0
+在沪	encdhiy	0
 在吗	encdhkc	0
 在哪	encdhkv	0
 在发	encdhnt	0
@@ -2187,6 +2198,7 @@
 在你	encdhwq	0
 在不	encdi	0
 在兆	encdiq	0
+在沪	encdiy	0
 在吗	encdkc	0
 在哪	encdkv	0
 矾入	encdmty	0
@@ -2440,6 +2452,7 @@
 兴浓	enciwip	0
 不低	enciwq	0
 涨式	encixaa	1
+沪南	enciyfm	0
 不让	enciyh	0
 不夜	enciyw	0
 最贵	encjbkh	0
@@ -2658,6 +2671,7 @@
 灯者	encosft	0
 为冰	encoui	0
 为净	encouq	0
+米都	encoyft	0
 家卫	encpebg	0
 家有	encpede	0
 家有	encpee	0
@@ -2665,6 +2679,8 @@
 家我	encpetr	0
 家做	encpewd	0
 这才	encpft	0
+定在	encpgd	0
+定在	encpgdh	0
 这还	encpgi	0
 这是	encpj	0
 这是	encpjg	0
@@ -3171,7 +3187,9 @@
 让我	encyhq	0
 让我	encyhtr	0
 就能	encyice	0
+就在	encyid	0
 就有	encyide	0
+就在	encyidh	0
 就有	encyie	0
 就副	encyigk	0
 就当	encyiiv	0
