@@ -2,7 +2,7 @@
 #@/db_name	user
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	4081
+#@/tick	4108
 工	a	17
 式	aa	2
 工艺	aaan	6
@@ -342,7 +342,7 @@
 有说	eyu	1
 地	f	26
 载	fa	1
-裁尺	fany	1
+裁尺	fany	2
 栽人	faww	1
 裁	fay	4
 裁	faye	4
@@ -797,7 +797,7 @@
 没	im	13
 浀	imag	1
 没了	imbn	2
-没有	imde	59
+没有	imde	61
 没事	imgk	1
 没睡	imht	1
 涔涔	imim	1
@@ -845,7 +845,7 @@
 潸	isse	2
 少	it	3
 洚	ita	1
-沲	itb	3
+沲	itb	4
 活	itd	3
 洗脑	itey	1
 活动	itfc	4
@@ -906,7 +906,7 @@
 明朝	jefj	1
 明天	jegd	5
 时	jf	12
-里	jfd	48
+里	jfd	49
 里面	jfdm	7
 野雁	jfdw	1
 里弄	jfga	1
@@ -1023,7 +1023,7 @@
 喂马	klcn	7
 嗯	kldn	1
 喂	klg	1
-别	klj	4
+别	klj	5
 咖啡	klkd	1
 嗯嗯	klkl	24
 另外	klqh	1
@@ -1151,6 +1151,7 @@
 力	lt	1
 图	lt	1
 图片	ltth	1
+办法	lwif	1
 办公室	lwpg	1
 输入	lwty	1
 办公	lwwc	4
@@ -1342,6 +1343,7 @@
 定	pg	3
 写过	pgfp	6
 定	pgh	1
+写法	pgif	1
 宣	pgj	1
 宝号	pgkg	2
 宝贵	pgkh	5
@@ -1385,6 +1387,7 @@
 空调	pwym	1
 它	px	13
 它的	pxrq	5
+神奇	pyds	1
 神清	pyig	5
 神	pyj	2
 我	q	149
@@ -1462,7 +1465,7 @@
 久别	qykl	1
 鸟	qyng	3
 留着	qyud	2
-的	r	448
+的	r	449
 找	ra	4
 撒	rae	1
 撒	raet	1
@@ -1575,10 +1578,11 @@
 撸	rqg	1
 挽	rqkq	2
 换喻	rqkw	1
-换	rqm	1
+换	rqm	2
 抱	rqn	1
 抵制	rqrm	1
 换血	rqtl	1
+换个	rqwh	1
 拍	rrg	1
 白	rrrr	2
 白条	rrts	1
@@ -1651,7 +1655,7 @@
 极	sey	2
 村落	sfai	6
 票	sfiu	2
-村径	sftc	2
+村径	sftc	3
 标准	sfuw	1
 本	sg	1
 本地	sgfb	1
@@ -1928,7 +1932,7 @@
 冰华	uiwx	1
 间	uj	2
 赣江	ujia	1
-意思	ujln	21
+意思	ujln	25
 竟连	ujlp	1
 意	ujn	1
 音乐	ujqi	1
@@ -1948,6 +1952,7 @@
 总会	ukwf	6
 部分	ukwv	1
 曾	ul	6
+痹民	ulna	1
 曾经	ulxc	1
 瞥见	ummq	1
 疯	umq	1
@@ -2002,7 +2007,7 @@
 凛冽	uyug	6
 辛辣	uyug	1
 发	v	10
-好	vb	51
+好	vb	52
 好了	vbb	1
 好用	vbet	1
 好玩	vbgf	1
@@ -2106,7 +2111,7 @@
 侍	wff	1
 佳	wffg	1
 值	wfhg	1
-什么	wftc	48
+什么	wftc	52
 传统	wfxy	4
 传说	wfyu	6
 会议	wfyy	1
@@ -2194,6 +2199,8 @@
 人寿	wwdt	1
 人才	wwft	1
 偷	wwgj	1
+人事	wwgk	1
+从事	wwgk	1
 从此	wwhx	1
 价	wwj	3
 欲	wwkw	1
@@ -2379,11 +2386,11 @@
 这家	yppe	1
 这句	ypqk	1
 这样	ypsu	3
-这么	yptc	4
+这么	yptc	5
 这种	yptk	8
 这次	ypuq	3
 亮闪	ypuw	1
-这个	ypwh	30
+这个	ypwh	31
 义	yq	1
 底	yqa	4
 底	yqay	2
@@ -2406,7 +2413,7 @@
 计算机	ytsm	2
 诱人	ytww	1
 谢谢	ytyt	5
-说	yu	35
+说	yu	36
 谪戍	yudy	7
 说明	yuje	4
 谪	yumd	1
