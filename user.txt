@@ -2,7 +2,7 @@
 #@/db_name	user
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	4277
+#@/tick	4283
 工	a	20
 式	aa	2
 工艺	aaan	6
@@ -311,7 +311,7 @@
 太想	dysh	1
 太行	dytf	1
 太好	dyvb	1
-有	e	101
+有	e	102
 朋友	eedc	1
 月	eee	10
 月	eeee	4
@@ -1393,7 +1393,7 @@
 神奇	pyds	1
 神清	pyig	5
 神	pyj	2
-我	q	151
+我	q	152
 错过	qafp	1
 错	qaj	4
 錵	qawx	1
@@ -1470,7 +1470,7 @@
 久别	qykl	1
 鸟	qyng	3
 留着	qyud	2
-的	r	449
+的	r	450
 找	ra	4
 撒	rae	1
 撒	raet	1
@@ -1709,7 +1709,7 @@
 相习成风	sndm	2
 杨柳	snsq	2
 杖履相从	snsw	1
-杜熠菲	soad	3
+杜熠菲	soad	5
 楼	sov	1
 哥本哈根	ssks	1
 木桶	sssc	6
@@ -2074,7 +2074,7 @@
 女儿	vvqt	3
 妇女	vvvv	6
 忍者	vyft	1
-人	w	72
+人	w	73
 代	wa	3
 代码	wadc	1
 供需	wafd	1
@@ -3355,7 +3355,9 @@
 我酱	encquq	0
 急了	encqvb	0
 急了	encqvbn	0
+我人	encqw	0
 我拿	encqwg	0
+我人	encqww	0
 我主	encqy	0
 我主	encqyg	0
 我就	encqyi	0
@@ -3649,7 +3651,9 @@
 我和	enctrtk	0
 我称	enctrtq	0
 我酱	enctruq	0
+我人	enctrw	0
 我拿	enctrwg	0
+我人	enctrww	0
 我主	enctry	0
 我主	enctryg	0
 我就	enctryi	0
@@ -3768,8 +3772,10 @@
 人在	encwd	0
 做了	encwdb	0
 做了	encwdbn	0
+人有	encwde	0
 人在	encwdh	0
 优解	encwdqe	0
+人有	encwe	0
 会胡	encwfde	0
 会去	encwffc	0
 会还	encwfgi	0
@@ -3864,7 +3870,9 @@
 价了	encwwbn	0
 偷也	encwwbn	0
 人在	encwwd	0
+人有	encwwde	0
 人在	encwwdh	0
+人有	encwwe	0
 人不	encwwgi	0
 人与	encwwgn	0
 人不	encwwi	0
