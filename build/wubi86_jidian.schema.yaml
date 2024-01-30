@@ -8,7 +8,7 @@ __build_info:
     punctuation: 1675621991
     punctuation.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1706580534
+    wubi86_jidian.schema: 1706628905
 engine:
   filters:
     - "simplifier@tradition"
@@ -35,60 +35,60 @@ engine:
     - "lua_translator@calculator"
 key_binder:
   bindings:
-    - { accept: semicolon, send: 2, when: has_menu }
-    - { accept: apostrophe, send: 3, when: has_menu }
-    - { accept: bracketleft, send: Page_Up, when: has_menu }
-    - { accept: bracketright, send: Page_Down, when: has_menu }
-    - { accept: minus, send: Page_Up, when: has_menu }
-    - { accept: equal, send: Page_Down, when: has_menu }
-    - { accept: "Shift+Tab", send: Page_Up, when: has_menu }
-    - { accept: Tab, send: Page_Down, when: has_menu }
-    - { accept: Return, send: Escape, when: composing }
-    - { accept: "Control+p", send: Up, when: composing }
-    - { accept: "Control+n", send: Down, when: composing }
-    - { accept: "Control+b", send: Left, when: composing }
-    - { accept: "Control+f", send: Right, when: composing }
-    - { accept: "Control+a", send: Home, when: composing }
-    - { accept: "Control+e", send: End, when: composing }
-    - { accept: "Control+d", send: Delete, when: composing }
-    - { accept: "Control+k", send: "Shift+Delete", when: composing }
-    - { accept: "Control+h", send: BackSpace, when: composing }
-    - { accept: "Control+g", send: Escape, when: composing }
-    - { accept: "Control+bracketleft", send: Escape, when: composing }
-    - { accept: "Alt+v", send: Page_Up, when: composing }
-    - { accept: "Control+v", send: Page_Down, when: composing }
+    - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: apostrophe, send: 3, when: has_menu}
+    - {accept: bracketleft, send: Page_Up, when: has_menu}
+    - {accept: bracketright, send: Page_Down, when: has_menu}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: "Shift+Tab", send: Page_Up, when: has_menu}
+    - {accept: Tab, send: Page_Down, when: has_menu}
+    - {accept: Return, send: Escape, when: composing}
+    - {accept: "Control+p", send: Up, when: composing}
+    - {accept: "Control+n", send: Down, when: composing}
+    - {accept: "Control+b", send: Left, when: composing}
+    - {accept: "Control+f", send: Right, when: composing}
+    - {accept: "Control+a", send: Home, when: composing}
+    - {accept: "Control+e", send: End, when: composing}
+    - {accept: "Control+d", send: Delete, when: composing}
+    - {accept: "Control+k", send: "Shift+Delete", when: composing}
+    - {accept: "Control+h", send: BackSpace, when: composing}
+    - {accept: "Control+g", send: Escape, when: composing}
+    - {accept: "Control+bracketleft", send: Escape, when: composing}
+    - {accept: "Alt+v", send: Page_Up, when: composing}
+    - {accept: "Control+v", send: Page_Down, when: composing}
   import_preset: default
 menu:
   page_size: 5
 punctuator:
   full_shape:
-    " ": { commit: "　" }
-    "!": { commit: "！" }
-    '"': { pair: ["“", "”"] }
+    " ": {commit: "　"}
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
     "#": ["＃", "⌘"]
     "$": "￥"
     "%": "％"
     "&": "＆"
-    "'": { pair: ["‘", "’"] }
+    "'": {pair: ["‘", "’"]}
     "(": "（"
     ")": "）"
     "*": ["＊", "・", "×"]
     "+": "＋"
-    ",": { commit: "，" }
+    ",": {commit: "，"}
     "-": "－"
-    .: { commit: "。" }
+    .: {commit: "。"}
     "/": ["／", "÷"]
-    ":": { commit: "：" }
-    ";": { commit: "；" }
+    ":": {commit: "："}
+    ";": {commit: "；"}
     "<": ["《", "〈", "«", "‹"]
     "=": "＝"
     ">": ["》", "〉", "»", "›"]
-    "?": { commit: "？" }
+    "?": {commit: "？"}
     "@": "＠"
     "[": ["「", "【", "〔", "［"]
     "\\": ["、", "＼"]
     "]": ["」", "】", "〕", "］"]
-    "^": { commit: "……" }
+    "^": {commit: "……"}
     _: "——"
     "`": "｀"
     "{": ["『", "〖", "｛"]
@@ -96,32 +96,32 @@ punctuator:
     "}": ["』", "〗", "｝"]
     "~": "～"
   half_shape:
-    "!": { commit: "！" }
-    '"': { pair: ["“", "”"] }
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
     "#": "#"
     "$": "￥"
     "%": ["%", "％", "°", "℃"]
     "&": "&"
-    "'": { pair: ["‘", "’"] }
+    "'": {pair: ["‘", "’"]}
     "(": "（"
     ")": "）"
     "*": ["·", "×"]
     "+": "+"
-    ",": { commit: "，" }
-    "-": { commit: "-" }
-    .: { commit: "。" }
-    "/": { commit: "、" }
-    ":": { commit: "：" }
-    ";": { commit: "；" }
-    "<": { commit: "《" }
-    "=": { commit: "=" }
-    ">": { commit: "》" }
-    "?": { commit: "？" }
+    ",": {commit: "，"}
+    "-": {commit: "-"}
+    .: {commit: "。"}
+    "/": {commit: "、"}
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": {commit: "《"}
+    "=": {commit: "="}
+    ">": {commit: "》"}
+    "?": {commit: "？"}
     "@": "@"
-    "[": { commit: "【" }
-    "\\": { commit: "、" }
-    "]": { commit: "】" }
-    "^": { commit: "……" }
+    "[": {commit: "【"}
+    "\\": {commit: "、"}
+    "]": {commit: "】"}
+    "^": {commit: "……"}
     _: "——"
     "`": "`"
     "{": "「"

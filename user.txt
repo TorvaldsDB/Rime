@@ -2,7 +2,7 @@
 #@/db_name	user
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	4296
+#@/tick	4325
 工	a	20
 式	aa	2
 工艺	aaan	6
@@ -398,11 +398,11 @@
 走路	fhkh	1
 起	fhn	2
 起飞	fhnu	1
-真的	fhrq	4
+真的	fhrq	3
 直播	fhrt	1
 直接	fhru	2
 走	fhu	9
-真	fhw	13
+真	fhw	12
 未来	figo	1
 未平	figu	9
 过河拆桥	firs	2
@@ -1393,7 +1393,7 @@
 神奇	pyds	1
 神清	pyig	5
 神	pyj	2
-我	q	152
+我	q	153
 错过	qafp	1
 错	qaj	4
 錵	qawx	1
@@ -1490,7 +1490,6 @@
 把	rcn	24
 把握	rcrn	1
 返御	rctr	2
-反弹	rcxu	3
 反应	rcyi	1
 排除	rdbw	1
 振	rdfe	2
@@ -1533,11 +1532,10 @@
 看过	rhfp	1
 擅壑专丘	rhfr	1
 看到	rhgc	18
-牛逼	rhgk	3
-年画	rhgl	1
+牛逼	rhgk	2
 扯皮	rhhc	1
 掉	rhj	3
-牛	rhk	4
+牛	rhk	3
 扑嗤	rhkb	1
 看书	rhnn	1
 看错	rhqa	1
@@ -1637,6 +1635,7 @@
 推荐	rwad	2
 推出	rwbm	5
 拴在	rwdh	1
+抢镜	rwqu	1
 推	rwyg	1
 折线图	rxlt	1
 搞	rym	1
@@ -1852,7 +1851,7 @@
 物业	trog	3
 物料	trou	1
 特产	trut	6
-我们	trwu	18
+我们	trwu	19
 笑	ttd	2
 笔画	ttgl	1
 怎么样	ttsu	1
@@ -1869,9 +1868,8 @@
 剩	tuxj	1
 很能	tvce	1
 很难	tvcw	1
-很	tve	15
+很	tve	14
 很早	tvjh	6
-射姑山	tvmm	2
 很快	tvnn	1
 很多	tvqq	2
 很差	tvud	1
@@ -2994,7 +2992,6 @@
 是地	encjf	0
 是地	encjfb	0
 里霜	encjffs	0
-是真	encjfh	0
 里的	encjfr	0
 里的	encjfrq	0
 里算	encjfth	0
@@ -3005,7 +3002,6 @@
 是用	encjget	0
 是地	encjgf	0
 是地	encjgfb	0
-是真	encjgfh	0
 是一	encjgg	0
 是一	encjggg	0
 是不	encjggi	0
