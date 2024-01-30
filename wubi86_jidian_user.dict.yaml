@@ -17,6 +17,9 @@ sort: original
 # `##` 两个 # 开头的会被识别为分组名，其后跟的词条就是该组的内容
 
 ...
+## - 未命名 -
+指甲刀	rlvn
+
 ## 学校
 电子科技大学	jbti
 四川大学	lkdi
@@ -35,6 +38,7 @@ sort: original
 五百	ggdj
 再去	gmfc	1
 跟我	khtr	1
+挺难	rtcw
 徒留	tfqy
 那步	vfhi
 整宿	gkpw
@@ -170,6 +174,9 @@ sort: original
 鹤永路	pykh	3
 鹤波路	pikh
 沪南公路	ifwk
+南京西路	fysk
+南京东路	fyak
+麻城	ysfd
 
 ## 姓名
 杜熠菲	soad	1

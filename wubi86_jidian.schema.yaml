@@ -62,6 +62,7 @@ engine:
 speller:
   max_code_length: 4                    # 四码上屏
   auto_select: true                     # 四码唯一时，自动上屏
+  auto_select_unique_candidate: true    # 无重码自动上屏
 #  auto_clear: max_length                # 空码时自动清空
 
 # translator:
@@ -71,7 +72,7 @@ speller:
 
 #   enable_sentence: false                # 句子输入模式
 #   enable_user_dict: false               # 是否开启用户词典（用户词典记录动态字词频，用户词）
-#   enable_encoder: false
+#   enable_encoder: false                 # 自动造词
 
 #   encode_commit_history: false          # 是否对已上屏词自动成词（仅 table_translator 有效）
 #   preedit_format:                       # 上屏码自定义

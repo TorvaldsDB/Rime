@@ -2,13 +2,14 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     squirrel: 1675621991
-    squirrel.custom: 1706012694
+    squirrel.custom: 1706497316
 app_options:
   ascii_mode: true
   co.zeit.hyper:
     ascii_mode: true
   com.alfredapp.Alfred:
     ascii_mode: true
+    ascii_punct: true
   com.apple.Terminal:
     ascii_mode: true
     no_inline: true
@@ -22,14 +23,18 @@ app_options:
     ascii_mode: true
   com.google.Chrome:
     ascii_mode: true
+    ascii_punct: true
   com.googlecode.iterm2:
     ascii_mode: true
+    ascii_punct: true
   com.macromates.TextMate.preview:
     ascii_mode: true
   com.microsoft.VSCode:
     ascii_mode: true
+    ascii_punct: true
   "com.runningwithcrayons.Alfred-5":
     ascii_mode: true
+    ascii_punct: true
   com.sublimetext.2:
     ascii_mode: true
   "com.termius-dmg.mac":
@@ -41,6 +46,7 @@ app_options:
     no_inline: true
   org.vim.MacVim:
     ascii_mode: true
+    ascii_punct: true
     no_inline: true
 chord_duration: 0.1
 config_version: 0.37
