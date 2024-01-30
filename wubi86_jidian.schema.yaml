@@ -60,9 +60,9 @@ engine:
 # 自动造词功能：参阅： https://github.com/KyleBing/rime-wubi86-jidian#6-%E5%BC%80%E5%90%AF%E8%87%AA%E5%8A%A8%E9%80%A0%E8%AF%8D
 
 speller:
-  max_code_length: 4                    # 四码上屏
-  auto_select: true                     # 四码唯一时，自动上屏
-  auto_select_unique_candidate: true    # 无重码自动上屏
+  # max_code_length: 4                    # 四码上屏
+  auto_select: false                     # 四码唯一时，自动上屏
+  # auto_select_unique_candidate: true    # 无重码自动上屏
 #  auto_clear: max_length                # 空码时自动清空
 
 # translator:
@@ -88,7 +88,7 @@ translator:
   enable_user_dict: true             # 开启用户词典，记录动态字频和用户词频
   enable_sentence: true              # 句子输入模式
   enable_encoder: true              # 自动造词
-  encode_commit_history: true        # 对已上屏词自动造词 (仅 table_translator 有效)
+  # encode_commit_history: true        # 对已上屏词自动造词 (仅 table_translator 有效)
 
   max_phrase_length: 2               # 自动生成词的最大长度
   user_dict: user                    # 用户词典名

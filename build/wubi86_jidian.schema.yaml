@@ -8,7 +8,7 @@ __build_info:
     punctuation: 1675621991
     punctuation.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1706628905
+    wubi86_jidian.schema: 1706629208
 engine:
   filters:
     - "simplifier@tradition"
@@ -157,9 +157,7 @@ schema:
   schema_id: wubi86_jidian
   version: 1.0
 speller:
-  auto_select: true
-  auto_select_unique_candidate: true
-  max_code_length: 4
+  auto_select: false
 switches:
   - name: zh_trad
     reset: 0
@@ -187,6 +185,5 @@ translator:
   enable_encoder: true
   enable_sentence: true
   enable_user_dict: true
-  encode_commit_history: true
   max_phrase_length: 2
   user_dict: user
