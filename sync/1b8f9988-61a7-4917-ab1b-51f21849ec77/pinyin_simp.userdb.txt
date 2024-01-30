@@ -2,14 +2,253 @@
 #@/db_name	pinyin_simp
 #@/db_type	userdb
 #@/rime_version	1.8.5
-#@/tick	5
+#@/tick	237
 #@/user_id	1b8f9988-61a7-4917-ab1b-51f21849ec77
-a 	啊	c=1 d=0.985112 t=5
-hao de 	好的	c=1 d=0.980199 t=5
-ji 	及	c=1 d=1 t=5
-jue de 	觉得	c=0 d=0.0985112 t=5
-me yang 	么样	c=0 d=0.099005 t=5
-ni 	你	c=0 d=0.0985112 t=5
-ni jue de 	你觉得	c=1 d=0.99005 t=5
-zhe ne 	着呢	c=0 d=0.099005 t=5
-zhe ne me yang 	着呢么样	c=1 d=0.995012 t=5
+a 	啊	c=1 d=0.985112 t=237
+an 	按	c=0 d=0.1 t=23
+an jiu shi 	按就是	c=1 d=1 t=24
+ba 	吧	c=3 d=1.5026 t=197
+ban 	半	c=0 d=0.1 t=45
+ban 	班	c=1 d=1 t=149
+bao 	报	c=0 d=0.1 t=170
+bei you 	北邮	c=1 d=1 t=73
+bi 	比	c=0 d=0.1 t=136
+bi chuan da 	比川大	c=1 d=1 t=137
+bian hua 	变化	c=0 d=0.1 t=219
+bian hua le 	变化了	c=1 d=1 t=220
+bie 	别	c=1 d=1.08311 t=49
+bie jue de 	别觉得	c=1 d=1 t=13
+bie qu 	别去	c=2 d=1.99005 t=188
+bie xue 	别学	c=3 d=2.9178 t=192
+bo yi bo 	搏一搏	c=1 d=1 t=168
+bu 	不	c=1 d=1.19733 t=155
+bu cuo 	不错	c=0 d=0.1 t=27
+bu kao lv 	不考虑	c=1 d=1 t=156
+bu neng 	不能	c=1 d=1 t=230
+bu que ding you zhe ge 	不确定有这个	c=1 d=1 t=129
+bu shi 	不是	c=1 d=1 t=106
+bu xing 	不行	c=1 d=1.06818 t=71
+bu zhi dao 	不知道	c=1 d=1 t=75
+cha bu duo 	差不多	c=0 d=0.1 t=181
+cha bu duo le 	差不多了	c=1 d=1 t=182
+chi xiang 	吃香	c=0 d=0.1 t=153
+chu fei 	除非	c=1 d=1 t=60
+chuan da 	传达	c=1 d=1 t=85
+chuan da 	川大	c=1 d=0.931104 t=136
+da 	大	c=0 d=0.199501 t=80
+da niu shi 	大牛市	c=1 d=1 t=221
+da xue 	大学	c=1 d=1.06079 t=86
+dan shi 	但是	c=1 d=1 t=222
+de 	的	c=4 d=2.37056 t=224
+de hen duo 	的很多	c=1 d=1 t=68
+dian zi 	电子	c=0 d=0.1625 t=140
+dian zi ke da 	电子科大	c=1 d=1 t=141
+dian zi ke ji da xue 	电子科技大学	c=7 d=5.72524 t=131
+dong bei 	东北	c=1 d=1 t=189
+dong nan da xue 	东南大学	c=1 d=1 t=185
+dou 	都	c=2 d=2.03638 t=164
+dou bu xing ba 	都不行吧	c=1 d=1 t=72
+dou ke 	都可	c=0 d=0.1 t=171
+dou ke yi shang 	都可以上	c=1 d=1 t=172
+dou xu gao 	都虚高	c=1 d=1 t=90
+dui 	对	c=1 d=1 t=152
+dui kou 	对口	c=1 d=1 t=114
+duo 	多	c=0 d=0.1 t=202
+duo ming 	多名	c=1 d=1 t=64
+er qie 	而且	c=1 d=1 t=55
+fan zheng 	反正	c=1 d=1 t=69
+fen 	分	c=0 d=0.1 t=76
+fen gou bu gou 	分够不够	c=1 d=1 t=77
+fen shu 	分数	c=3 d=2.81477 t=124
+fen shu xian 	分数线	c=1 d=1 t=133
+fu dan 	复旦	c=1 d=1 t=162
+gan shen me 	干什么	c=1 d=1 t=36
+gao 	高	c=1 d=0.839867 t=217
+gong da 	工大	c=0 d=0.1 t=160
+gong ye 	工业	c=0 d=0.1 t=80
+gou bu gou 	够不够	c=0 d=0.1 t=76
+ha gong da 	哈工大	c=7 d=5.88833 t=118
+ha ha ha 	哈哈哈	c=1 d=1 t=83
+ha ha ha ha 	哈哈哈哈	c=1 d=1 t=15
+hai hao 	还好	c=0 d=0.1 t=19
+hai hao ba 	还好吧	c=1 d=1 t=20
+hai ke 	还可	c=0 d=0.1 t=6
+hai ke yi ba 	还可一把	c=1 d=1 t=7
+hai shi 	还是	c=1 d=1.03734 t=224
+hang qing 	行情	c=0 d=0.1 t=44
+hang ye 	行业	c=1 d=1 t=59
+hao de 	好的	c=2 d=1.29733 t=237
+hen 	很	c=0 d=0.1 t=153
+hen chi xiang 	很吃香	c=1 d=1 t=154
+hen duo 	很多	c=0 d=0.1 t=67
+hua gong 	化工	c=1 d=1 t=191
+hua ke 	华科	c=1 d=1 t=142
+hua xue 	化学	c=1 d=1 t=179
+ji 	及	c=1 d=1 t=237
+ji da 	吉大	c=1 d=1 t=70
+ji ge 	几个	c=0 d=0.185642 t=180
+ji ge xue xiao le 	几个学校了	c=1 d=1 t=181
+ji lu 	记录	c=1 d=1 t=228
+jia yuan 	家园	c=0 d=0.1 t=175
+jian shen 	健身	c=0 d=0.1 t=198
+jian shen zhi hou 	健身之后	c=1 d=1 t=199
+jin wan 	今晚	c=1 d=1 t=43
+jiu shi 	就是	c=2 d=1.70533 t=101
+ju zi 	句子	c=1 d=1 t=33
+jue de 	觉得	c=0 d=0.128825 t=237
+jue de bu xing 	觉得不行	c=1 d=1 t=23
+kao lv 	考虑	c=3 d=2.19346 t=155
+kao lv bu 	考虑不	c=2 d=1.67032 t=175
+ke da 	科大	c=0 d=0.1 t=140
+ke ji 	科技	c=0 d=0.1 t=79
+ke ji da 	科技大	c=1 d=1 t=80
+ke ji da xue 	科技大学	c=0 d=0.1 t=46
+ke yi 	可以	c=3 d=2.42092 t=173
+ke yi bu 	可以不	c=1 d=1 t=76
+kuai 	快	c=1 d=1 t=233
+kuai ba 	快把	c=1 d=1 t=227
+lai ge 	来个	c=1 d=1 t=166
+lai shuo 	来说	c=0 d=0.1 t=152
+lao ge 	老哥	c=1 d=1 t=42
+lao ge 	老歌	c=1 d=1 t=41
+le 	了	c=3 d=2.99678 t=236
+lei 	类	c=0 d=0.1 t=194
+li 	里	c=0 d=0.1 t=175
+li gong ke 	理工科	c=1 d=1 t=146
+li jia yuan 	里家园	c=1 d=1 t=176
+lu diao 	撸掉	c=1 d=1 t=229
+me yang 	么样	c=0 d=0.099005 t=237
+mei 	没	c=0 d=0.1 t=149
+mei ji ge 	没几个	c=1 d=1 t=150
+mei ren 	没人	c=0 d=0.1 t=170
+mei ren bao 	没人报	c=1 d=1 t=171
+mei you 	没有	c=0 d=0.1 t=202
+mei you na me duo 	没有那么多	c=2 d=1.98511 t=206
+mo shi 	模式	c=1 d=1 t=35
+n ba 	嗯吧	c=1 d=1 t=18
+na jiu shi 	那就是	c=1 d=1 t=25
+na me 	那么	c=0 d=0.1 t=202
+na shi 	那是	c=1 d=1 t=116
+nan jing 	南京	c=2 d=1.65705 t=158
+nan jing da xue 	南京大学	c=1 d=1 t=98
+nan kai 	南开	c=2 d=1.72979 t=159
+ne 	呢	c=2 d=2.0316 t=20
+ni 	你	c=0 d=0.0985112 t=237
+ni jue de 	你觉得	c=3 d=0.993593 t=237
+ni jue de ne 	你觉得呢	c=2 d=1.96079 t=29
+ni shuo 	你说	c=0 d=0.1 t=9
+ni shuo shi 	你说是	c=1 d=1 t=10
+ni yao shi 	你要是	c=1 d=1 t=22
+nian nian 	年年	c=1 d=1 t=138
+nv sheng 	女生	c=1 d=1.09501 t=152
+nv sheng lai shuo 	女生来说	c=1 d=1 t=153
+qi che 	汽车	c=1 d=1.09753 t=62
+qi che zhi zao 	汽车制造	c=1 d=1 t=58
+qi shi 	其实	c=1 d=1 t=97
+qu nian 	去年	c=1 d=1 t=169
+quan sheng 	全省	c=1 d=1 t=66
+que 	缺	c=1 d=1 t=209
+que ding 	确定	c=1 d=1.07711 t=180
+re ai 	热爱	c=1 d=1 t=61
+ren gong zhi neng 	人工智能	c=2 d=1.88692 t=128
+san ge 	三个	c=0 d=0.1 t=164
+san ge le 	三个了	c=1 d=1 t=165
+shan dong da xue 	山东大学	c=1 d=1 t=184
+shan le 	删了	c=1 d=1 t=234
+shang 	上	c=0 d=0.1 t=92
+shang ge 	上个	c=1 d=1 t=117
+shang hai jiao da 	上海交大	c=1 d=1 t=167
+shen me 	什么	c=1 d=1 t=31
+shen zhen 	深圳	c=1 d=1.09851 t=115
+shen zhen xiao qu 	深圳校区	c=1 d=1 t=113
+sheng wu 	生物	c=2 d=1.92774 t=193
+sheng zhi 	升值	c=0 d=0.1 t=197
+sheng zhi zhi hou ba 	升值之后吧	c=1 d=1 t=198
+shi 	是	c=2 d=1.96116 t=57
+shi bu shi 	是不是	c=1 d=1 t=44
+shi dian 	十点	c=0 d=0.1 t=45
+shi dian ban 	十点半	c=1 d=1 t=46
+shi hou 	时候	c=0 d=0.1 t=224
+shi jian 	时间	c=1 d=1 t=202
+shi qing 	事情	c=1 d=1.06561 t=222
+shu ru 	输入	c=1 d=1 t=34
+shuo ming shu 	说明书	c=1 d=1 t=30
+si kao 	思考	c=0 d=0.1 t=199
+si kao wen ti 	思考问题	c=2 d=1.97531 t=205
+sui bian 	随便	c=0 d=0.1 t=92
+sui bian shang 	随便上	c=1 d=1 t=93
+ta 	他	c=2 d=1.96079 t=216
+ta men 	他们	c=1 d=1 t=102
+tai 	太	c=1 d=1 t=145
+tao lun 	讨论	c=1 d=1 t=231
+ti shen 	替身	c=1 d=1 t=211
+tiao 	挑	c=1 d=1 t=122
+tong ji da xue 	同济大学	c=1 d=1 t=170
+tong shi 	同事	c=1 d=1 t=232
+tou ru 	投入	c=1 d=1 t=201
+tuo jie 	脱节	c=0 d=0.1 t=225
+tuo jie le 	脱节了	c=1 d=1 t=226
+wang le 	忘了	c=0 d=0.1 t=182
+wang le yi ge 	忘了一个	c=1 d=1 t=183
+wei sha 	为啥	c=1 d=1 t=155
+wen ke 	文科	c=0 d=0.1 t=194
+wen ke lei 	文科类	c=1 d=1 t=195
+wen ti 	问题	c=0 d=0.1 t=199
+wo 	我	c=1 d=1.03151 t=236
+wo bu 	我不	c=0 d=0.1 t=13
+wo bu zhi dao 	我不知道	c=1 d=1 t=14
+wo jue de 	我觉得	c=2 d=1.96112 t=27
+wo jue de hai shi bu cuo de 	我觉得还是不错的	c=1 d=1 t=28
+wu han 	武汉	c=2 d=1.98511 t=163
+wu han da xue 	武汉大学	c=2 d=1.67706 t=157
+xi 	西	c=0 d=0.1 t=160
+xi bei 	西北	c=1 d=1.05857 t=187
+xi bei gong ye da 	西北工业大	c=1 d=1 t=81
+xi gong da 	西工大	c=1 d=1 t=161
+xian zai 	现在	c=3 d=2.17978 t=217
+xiao he shuang pin 	小鹤双拼	c=2 d=1.99501 t=40
+xiao qu 	校区	c=1 d=1.09005 t=112
+xin tai 	心态	c=1 d=1 t=219
+xu 	嘘	c=1 d=1 t=197
+xu gao 	虚高	c=1 d=1.07906 t=136
+xue xiao 	学校	c=1 d=0.925608 t=180
+yao shi 	要是	c=0 d=0.1 t=21
+ye ke 	也可	c=0 d=0.1 t=99
+ye ke yi shang 	也可以上	c=1 d=1 t=100
+ye shi 	也是	c=1 d=1 t=135
+yi ba 	一把	c=0 d=0.1 t=6
+yi ge 	一个	c=1 d=1.15991 t=210
+yi ge xue xiao 	一个学校	c=1 d=1 t=148
+yi ji 	以及	c=1 d=1 t=194
+yi jing 	已经	c=0 d=0.1 t=53
+yi jing bu xing le 	已经不行了	c=1 d=1 t=54
+yi qian 	以前	c=1 d=1 t=92
+yi shang 	以上	c=0 d=0.169768 t=171
+yong 	用	c=1 d=1 t=37
+you 	有	c=0 d=0.165705 t=128
+you hang qing 	有行情	c=1 d=1 t=45
+yuan lai 	原来	c=0 d=0.1 t=224
+yuan lai de shi hou 	原来的时候	c=1 d=1 t=225
+zhe ge 	这个	c=0 d=0.1 t=128
+zhe ne 	着呢	c=0 d=0.099005 t=237
+zhe ne me yang 	着呢么样	c=1 d=0.995012 t=237
+zhe zhong 	这种	c=1 d=1.0752 t=143
+zhe zhong da xue 	这种大学	c=1 d=1 t=87
+zhe zong 	这总	c=1 d=1 t=140
+zhi dao 	知道	c=0 d=0.177277 t=236
+zhi dao le 	知道了	c=1 d=1 t=237
+zhi hou 	之后	c=0 d=0.199501 t=198
+zhi qian 	之前	c=1 d=1 t=213
+zhi wei 	职位	c=0 d=0.1 t=217
+zhi wei gao le 	职位高了	c=1 d=1 t=218
+zhi zao 	制造	c=0 d=0.1 t=57
+zhong gong ye 	重工业	c=1 d=1 t=63
+zhong shan 	中山	c=1 d=1 t=174
+zhong shan da xue 	中山大学	c=1 d=1 t=84
+zhuan chang 	专长	c=1 d=1 t=107
+zhuan ye 	专业	c=5 d=3.63032 t=196
+zu gou 	足够	c=0 d=0.1 t=124
+zu gou gao 	足够高	c=1 d=1 t=125
+zuo de 	做的	c=1 d=1.06079 t=222
+zuo de shi qing 	做的事情	c=1 d=1 t=223
+zuo ta 	做他	c=1 d=1 t=212

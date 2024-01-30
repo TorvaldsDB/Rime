@@ -2,7 +2,7 @@
 #@/db_name	user
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	4296
+#@/tick	4283
 工	a	20
 式	aa	2
 工艺	aaan	6
@@ -311,7 +311,7 @@
 太想	dysh	1
 太行	dytf	1
 太好	dyvb	1
-有	e	103
+有	e	102
 朋友	eedc	1
 月	eee	10
 月	eeee	4
@@ -398,11 +398,11 @@
 走路	fhkh	1
 起	fhn	2
 起飞	fhnu	1
-真的	fhrq	4
+真的	fhrq	3
 直播	fhrt	1
 直接	fhru	2
 走	fhu	9
-真	fhw	13
+真	fhw	12
 未来	figo	1
 未平	figu	9
 过河拆桥	firs	2
@@ -806,7 +806,7 @@
 油灯	imos	6
 海内外	imqh	5
 沨	imqy	1
-沁	in	2
+沁	in	1
 漏	infy	6
 渥	ingf	1
 沈心静气	ingr	1
@@ -875,7 +875,7 @@
 举例	iwwg	2
 举例说明	iwyj	1
 蠽	iwyj	2
-涨	ix	4
+涨	ix	3
 涨	ixt	1
 涨价	ixww	1
 流	iyc	1
@@ -888,7 +888,7 @@
 流行	iytf	8
 注意	iyuj	1
 游丝	iyxx	1
-是	j	131
+是	j	130
 最	jb	4
 最大	jbdd	1
 最早	jbjh	12
@@ -1470,7 +1470,7 @@
 久别	qykl	1
 鸟	qyng	3
 留着	qyud	2
-的	r	451
+的	r	450
 找	ra	4
 撒	rae	1
 撒	raet	1
@@ -1490,7 +1490,6 @@
 把	rcn	24
 把握	rcrn	1
 返御	rctr	2
-反弹	rcxu	3
 反应	rcyi	1
 排除	rdbw	1
 振	rdfe	2
@@ -1533,11 +1532,10 @@
 看过	rhfp	1
 擅壑专丘	rhfr	1
 看到	rhgc	18
-牛逼	rhgk	3
-年画	rhgl	1
+牛逼	rhgk	2
 扯皮	rhhc	1
 掉	rhj	3
-牛	rhk	4
+牛	rhk	3
 扑嗤	rhkb	1
 看书	rhnn	1
 看错	rhqa	1
@@ -1739,7 +1737,7 @@
 长结	taxf	1
 长诗	tayf	6
 彻夜	tayw	6
-么	tc	2
+么	tc	1
 智慧	tddh	5
 逢到	tdgc	1
 适	tdp	1
@@ -1802,7 +1800,7 @@
 自己	thnn	18
 自然	thqd	10
 怎样	thsu	3
-怎么	thtc	21
+怎么	thtc	20
 片段	thwd	2
 箈	tick	3
 短小精悍	tion	1
@@ -1865,13 +1863,11 @@
 冬	tuu	9
 简单	tuuj	11
 知疼着痒	tuuu	1
-物美价廉	tuwy	1
 剩	tuxj	1
 很能	tvce	1
 很难	tvcw	1
-很	tve	15
+很	tve	14
 很早	tvjh	6
-射姑山	tvmm	2
 很快	tvnn	1
 很多	tvqq	2
 很差	tvud	1
@@ -2078,7 +2074,7 @@
 女儿	vvqt	3
 妇女	vvvv	6
 忍者	vyft	1
-人	w	74
+人	w	73
 代	wa	3
 代码	wadc	1
 供需	wafd	1
@@ -2127,7 +2123,7 @@
 会议	wfyy	1
 使其	wgad	5
 便有	wgde	4
-使用	wget	14
+使用	wget	13
 全城	wgfd	5
 傲霜	wgfs	1
 便	wgj	6
@@ -2143,7 +2139,7 @@
 登录	wgvi	1
 全会	wgwf	1
 合计	wgyf	1
-个	wh	39
+个	wh	38
 个甩	when	1
 假虚脾	wher	1
 企至	whgc	1
@@ -2994,7 +2990,6 @@
 是地	encjf	0
 是地	encjfb	0
 里霜	encjffs	0
-是真	encjfh	0
 里的	encjfr	0
 里的	encjfrq	0
 里算	encjfth	0
@@ -3005,7 +3000,6 @@
 是用	encjget	0
 是地	encjgf	0
 是地	encjgfb	0
-是真	encjgfh	0
 是一	encjgg	0
 是一	encjggg	0
 是不	encjggi	0
@@ -3780,10 +3774,8 @@
 做了	encwdbn	0
 人有	encwde	0
 人在	encwdh	0
-人有涨沁	encwdii	1
 优解	encwdqe	0
 人有	encwe	0
-人有涨沁	encweii	1
 会胡	encwfde	0
 会去	encwffc	0
 会还	encwfgi	0
@@ -3806,7 +3798,6 @@
 个有	encwhe	0
 个甩	encwhen	1
 个吧	encwhkc	0
-个么	encwhtc	1
 个箈	encwhti	0
 人不	encwi	0
 人渴	encwij	0

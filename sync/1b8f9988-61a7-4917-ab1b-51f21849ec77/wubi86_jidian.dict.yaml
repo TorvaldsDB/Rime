@@ -5,8 +5,16 @@ sort: by_weight # by_weight=权重 original=原始
 import_tables: # 此处是添加用户自定义词库的地方
   - wubi86_jidian_user                # 个人私有词库
   - wubi86_jidian_extra               # 扩展词库
-#  - wubi86_jidian_extra_district      # 扩展词库 - 行政区域
-
+  - wubi86_jidian_extra_district      # 扩展词库 - 行政区域
+  - wubi86
+  - wubi86_dict_chengyu      # 成语词库
+  - wubi86_dict_ciyu         # 词语词库
+  - wubi86_dict_china_cultural_cities # 中国国家历史文化名城
+  - wubi86_dict_xzqh         # 中国行政区划词库
+  - wubi86_dict_it           # IT 相关词库
+  - wubi86_dict_extra        # 个人扩展词库
+  - wubi86_dict_work         # 个人工作相关词库
+  - wubi86_dict_user         # 个人私有词库 (生活)
 
 columns:    # 码表格式
   - text    # 文字
@@ -3045,8 +3053,8 @@ Apple	appl
 葱头	aqud
 殴斗	aquf
 欧美	aqug
-敬意	aquj
 区间	aquj
+敬意	aquj
 获奖	aquq
 获准	aquw
 获益	aquw
@@ -5751,7 +5759,7 @@ B站	buh
 海岸线	imxg
 消消乐	iiqi
 水电费	ijxj
-深深	ipip
+常常	ipip
 堂食	ipwy
 洒水	isii
 没事	imgk
@@ -9199,7 +9207,7 @@ SD卡	sdhh
 鬈	deu
 長	deu
 鬈	deub
-有关	deud
+有关	deud	10
 龓	deud
 鬜	deue
 有病	deug
@@ -18254,8 +18262,8 @@ SD卡	sdhh
 都	ftjb
 殾	ftjc
 者	ftjf
+都是	ftjg	2
 老师	ftjg
-教师	ftjg
 老早	ftjh
 老帅	ftjm
 翥	ftjn
@@ -18350,8 +18358,8 @@ SD卡	sdhh
 老本	ftsg
 老相	ftsh
 考查	ftsj
-老歌	ftsk
 老哥	ftsk
+老歌	ftsk
 无利可图	ftsl
 起重机	ftsm
 老板	ftsr
@@ -28645,7 +28653,7 @@ iPhone	ipho
 沉没	ipim
 浓汤	ipin
 浓淡	ipio
-常常	ipip
+深深	ipip
 深沉	ipip
 沉淀	ipip
 尝尝	ipip
@@ -39568,7 +39576,7 @@ macOS	maco
 邮发	mbnt
 邮戳	mbnw
 MacbookPro	mbp
-都是	ftjg
+教师	ftjg
 唉呀	kcka
 啥意思	kuln
 邮寄	mbpd
