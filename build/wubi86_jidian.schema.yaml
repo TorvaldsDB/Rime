@@ -2,13 +2,13 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     default: 1675621991
-    default.custom: 1706027975
+    default.custom: 1706700567
     key_bindings: 1675621991
     key_bindings.custom: 0
     punctuation: 1675621991
     punctuation.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1706629208
+    wubi86_jidian.schema: 1706700567
 engine:
   filters:
     - "simplifier@tradition"
