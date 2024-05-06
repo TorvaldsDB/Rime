@@ -2,7 +2,7 @@
 #@/db_name	user
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	7761
+#@/tick	7768
 工	a	48
 式	aa	7
 工	aaaa	1
@@ -88,7 +88,7 @@
 或	ak	4
 勤劳	akap	7
 或者	akft	9
-功能	alce	7
+功能	alce	8
 薯	alfj	1
 菌	altu	1
 苏	alw	4
@@ -3380,7 +3380,7 @@
 自定义	tpyq	1
 称	tq	4
 移出	tqbm	1
-移除	tqbw	4
+移除	tqbw	5
 称	tqi	2
 稳定	tqpg	3
 称之	tqpp	1
@@ -3724,7 +3724,7 @@
 差旅费	uyxj	1
 门店	uyyh	1
 发	v	38
-好	vb	173
+好	vb	178
 好了	vbb	1
 好友	vbdc	2
 好用	vbet	4
