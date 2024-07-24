@@ -1,13 +1,13 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.11.2
   timestamps:
-    default: 1675621991
+    default: 1714847973
     default.custom: 1706700567
-    key_bindings: 1675621991
+    key_bindings: 1714847973
     key_bindings.custom: 0
     pinyin_simp.custom: 0
     pinyin_simp.schema: 1706700567
-    punctuation: 1675621991
+    punctuation: 1714847973
     punctuation.custom: 0
 engine:
   processors:

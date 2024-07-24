@@ -1,8 +1,8 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.11.2
   timestamps:
-    squirrel: 1675621991
-    squirrel.custom: 1714980697
+    squirrel: 1714847973
+    squirrel.custom: 1716271568
 app_options:
   com.alfredapp.Alfred:
     ascii_punct: true
@@ -20,8 +20,8 @@ app_options:
     ascii_punct: true
     no_inline: true
 chord_duration: 0.1
-config_version: 0.37
-keyboard_layout: default
+config_version: 0.38
+keyboard_layout: last
 preset_color_schemes:
   calm:
     back_color: 0xEFEFF4
