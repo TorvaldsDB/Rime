@@ -1,14 +1,14 @@
 __build_info:
-  rime_version: 1.11.2
+  rime_version: 1.16.0
   timestamps:
-    default: 1714847973
-    default.custom: 1706700567
-    key_bindings: 1714847973
+    default: 1768129037
+    default.custom: 1737560379
+    key_bindings: 1768129037
     key_bindings.custom: 0
-    punctuation: 1714847973
+    punctuation: 1768129037
     punctuation.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1706700567
+    wubi86_jidian.schema: 1780468428
 engine:
   filters:
     - "simplifier@tradition"
@@ -138,7 +138,7 @@ recognizer:
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:|localhost).*$|^[a-z]+[.].+$"
 reverse_lookup:
-  dictionary: pinyin_simp
+  dictionary: rime_ice
   preedit_format:
     - "xform/([nl])v/$1ü/"
     - "xform/([nl])ue/$1üe/"
@@ -156,6 +156,11 @@ schema:
   name: "极点五笔86"
   schema_id: wubi86_jidian
   version: 1.0
+selector:
+  bindings:
+    ISO_Left_Tab: previous_candidate
+    "Shift+Tab": previous_candidate
+    Tab: next_candidate
 speller:
   auto_select: false
 switches:

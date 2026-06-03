@@ -1,13 +1,13 @@
 __build_info:
-  rime_version: 1.11.2
+  rime_version: 1.16.0
   timestamps:
-    default: 1714847973
-    default.custom: 1706700567
-    key_bindings: 1714847973
+    default: 1768129037
+    default.custom: 1737560379
+    key_bindings: 1768129037
     key_bindings.custom: 0
     pinyin_simp.custom: 0
-    pinyin_simp.schema: 1706700567
-    punctuation: 1714847973
+    pinyin_simp.schema: 1780468087
+    punctuation: 1768129037
     punctuation.custom: 0
 engine:
   processors:
@@ -152,6 +152,11 @@ schema:
   name: "简体拼音"
   schema_id: pinyin_simp
   version: 0.8
+selector:
+  bindings:
+    ISO_Left_Tab: previous_candidate
+    "Shift+Tab": previous_candidate
+    Tab: next_candidate
 speller:
   algebra:
     - "abbrev/^([a-z]).+$/$1/"
@@ -177,7 +182,7 @@ switches:
   - name: ascii_punct
     states: ["。，", "．，"]
 translator:
-  dictionary: pinyin_simp
+  dictionary: rime_ice
   preedit_format:
     - "xform/([nl])v/$1ü/"
     - "xform/([nl])ue/$1üe/"

@@ -88,7 +88,7 @@ tradition:
   option_name: zh_trad
 
 reverse_lookup:
-  dictionary: pinyin_simp  # 反查使用的拼音词库
+  dictionary: rime_ice     # 反查使用的拼音词库
   prefix: "z"              # 反查前缀，以它为起点
   suffix: "'"              # 反查后缀，以它为结点
   tips: [拼音]              # 反查时的提示信息
