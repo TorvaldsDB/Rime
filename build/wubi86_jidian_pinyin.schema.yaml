@@ -2,17 +2,23 @@ __build_info:
   rime_version: 1.16.0
   timestamps:
     default: 1768129037
-    default.custom: 1737560379
+    default.custom: 1780469595
     key_bindings: 1768129037
     key_bindings.custom: 0
     punctuation: 1768129037
     punctuation.custom: 0
     wubi86_jidian_pinyin.custom: 0
-    wubi86_jidian_pinyin.schema: 1780468435
+    wubi86_jidian_pinyin.schema: 1780470486
 abc_segmentor:
   extra_tags:
     - reverse_lookup
+emoji:
+  inherit_comment: false
+  opencc_config: emoji.json
+  option_name: emoji
 engine:
+  filters:
+    - "simplifier@emoji"
   processors:
     - ascii_composer
     - recognizer
@@ -144,7 +150,7 @@ schema:
   author:
     - "发明人 王永民先生"
   dependencies:
-    - pinyin_simp
+    - rime_ice
   description: |
     五笔字形 86 极点极爽版，方案由 KyleBing 修改 - 2019年11月08日 10:26
 
@@ -157,6 +163,9 @@ selector:
     "Shift+Tab": previous_candidate
     Tab: next_candidate
 switches:
+  - name: emoji
+    reset: 1
+    states: ["文字", Emoji]
   - name: full_shape
     states: ["半角", "全角"]
   - name: extended_charset

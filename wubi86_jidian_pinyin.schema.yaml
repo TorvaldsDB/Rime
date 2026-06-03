@@ -10,9 +10,12 @@ schema:
   description: |
     五笔字形 86 极点极爽版，方案由 KyleBing 修改 - 2019年11月08日 10:26
   dependencies:
-    - pinyin_simp
+    - rime_ice
 
 switches:
+  - name: emoji
+    reset: 1
+    states: [ 文字, Emoji ]
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: extended_charset
@@ -40,6 +43,8 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
+  filters:
+    - simplifier@emoji
 
 speller:
 
@@ -71,6 +76,11 @@ reverse_lookup:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+
+emoji:
+  option_name: emoji
+  opencc_config: emoji.json
+  inherit_comment: false
 
 punctuator:
   import_preset: default

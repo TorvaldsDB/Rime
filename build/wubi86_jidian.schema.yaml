@@ -2,15 +2,20 @@ __build_info:
   rime_version: 1.16.0
   timestamps:
     default: 1768129037
-    default.custom: 1737560379
+    default.custom: 1780469595
     key_bindings: 1768129037
     key_bindings.custom: 0
     punctuation: 1768129037
     punctuation.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1780468428
+    wubi86_jidian.schema: 1780470148
+emoji:
+  inherit_comment: false
+  opencc_config: emoji.json
+  option_name: emoji
 engine:
   filters:
+    - "simplifier@emoji"
     - "simplifier@tradition"
   processors:
     - ascii_composer
@@ -167,6 +172,9 @@ switches:
   - name: zh_trad
     reset: 0
     states: ["简体", "繁体"]
+  - name: emoji
+    reset: 1
+    states: ["文字", Emoji]
   - name: full_shape
     states: ["半角", "全角"]
   - name: extended_charset

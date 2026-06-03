@@ -19,6 +19,9 @@ switches:
   - name: zh_trad
     reset: 0    # 初始状态为 0: 简 -> 简 1: 简 -> 繁
     states: [ 简体, 繁体 ]
+  - name: emoji
+    reset: 1
+    states: [ 文字, Emoji ]
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: extended_charset
@@ -52,6 +55,7 @@ engine:
     - lua_translator@date_translator # 自定义系统变量输出
     - lua_translator@calculator # 计算器：二元运算，coco 开头，如 coco56*34 coco24/1024
   filters:
+    - simplifier@emoji
     - simplifier@tradition
 #    - lua_filter@single_char_first_filter # 单字优先
 #    - lua_filter@single_char_only # 纯单字
@@ -115,6 +119,11 @@ tradition:
   #  opencc_config: s2tw.json  # 簡 -> 臺灣標準
   #  opencc_config: s2twp.json  # 簡 -> 臺灣片語
   option_name: zh_trad
+
+emoji:
+  option_name: emoji
+  opencc_config: emoji.json
+  inherit_comment: false
 
 reverse_lookup:
   dictionary: rime_ice     # 反查使用的拼音词库

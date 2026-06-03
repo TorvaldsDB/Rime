@@ -14,7 +14,7 @@ patch:
     - schema: wubi86_jidian_pinyin      # 五笔拼音混输
     - schema: wubi86_jidian_trad        # 五笔 - 简入繁出
     - schema: wubi86_jidian_trad_pinyin # 五笔拼音混输 - 简入繁出
-    - schema: pinyin_simp               # 普通拼音
+    - schema: rime_ice                  # 雾凇拼音
 
   # Menu
   menu:

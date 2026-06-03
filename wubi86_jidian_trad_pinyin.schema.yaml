@@ -10,12 +10,15 @@ schema:
   description:
     五笔字形 86 极点极爽版，方案由 KyleBing 修改 - 2019年11月08日 10:26
   dependencies:
-    - pinyin_simp
+    - rime_ice
 
 switches:
   - name: zh_trad
     reset: 1    # 初始状态为 0: 简 -> 繁 1: 繁 -> 简
     states: [ 简体, 繁体 ]
+  - name: emoji
+    reset: 1
+    states: [ 文字, Emoji ]
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: extended_charset
@@ -45,6 +48,7 @@ engine:
     - table_translator
     - lua_translator@date_translator # 自定义系统变量输出
   filters:
+    - simplifier@emoji
     - simplifier@tradition
     - uniquifier
 #    - lua_filter@single_char_first_filter # 单字优先方法
@@ -101,6 +105,11 @@ tradition:
   #  opencc_config: s2tw.json  # 簡 -> 臺灣標準
   #  opencc_config: s2twp.json  # 簡 -> 臺灣片語
   option_name: zh_trad
+
+emoji:
+  option_name: emoji
+  opencc_config: emoji.json
+  inherit_comment: false
 
 punctuator:
   import_preset: default
