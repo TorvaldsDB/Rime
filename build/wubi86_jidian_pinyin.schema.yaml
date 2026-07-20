@@ -1,14 +1,14 @@
 __build_info:
-  rime_version: 1.16.0
+  rime_version: 1.11.2
   timestamps:
-    default: 1768129037
-    default.custom: 1780469595
-    key_bindings: 1768129037
+    default: 1714847973
+    default.custom: 1780492564
+    key_bindings: 1714847973
     key_bindings.custom: 0
-    punctuation: 1768129037
+    punctuation: 1714847973
     punctuation.custom: 0
     wubi86_jidian_pinyin.custom: 0
-    wubi86_jidian_pinyin.schema: 1780470486
+    wubi86_jidian_pinyin.schema: 1780492564
 abc_segmentor:
   extra_tags:
     - reverse_lookup
@@ -157,11 +157,6 @@ schema:
   name: "拼音混输"
   schema_id: wubi86_jidian_pinyin
   version: 0.9
-selector:
-  bindings:
-    ISO_Left_Tab: previous_candidate
-    "Shift+Tab": previous_candidate
-    Tab: next_candidate
 switches:
   - name: emoji
     reset: 1

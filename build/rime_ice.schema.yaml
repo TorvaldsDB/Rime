@@ -1,15 +1,15 @@
 __build_info:
-  rime_version: 1.16.0
+  rime_version: 1.11.2
   timestamps:
-    default: 1768129037
-    default.custom: 1780469595
-    key_bindings: 1768129037
+    default: 1714847973
+    default.custom: 1780492564
+    key_bindings: 1714847973
     key_bindings.custom: 0
-    punctuation: 1768129037
+    punctuation: 1714847973
     punctuation.custom: 0
     rime_ice.custom: 0
-    rime_ice.schema: 1780469588
-    symbols_v: 1780469588
+    rime_ice.schema: 1780492564
+    symbols_v: 1780492564
     symbols_v.custom: 0
 cn_en:
   comment_format:
@@ -803,11 +803,6 @@ schema:
   name: "雾凇拼音"
   schema_id: rime_ice
   version: "2026-03-08"
-selector:
-  bindings:
-    ISO_Left_Tab: previous_candidate
-    "Shift+Tab": previous_candidate
-    Tab: next_candidate
 speller:
   algebra:
     - "erase/^hm$/"

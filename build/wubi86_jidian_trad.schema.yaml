@@ -1,14 +1,14 @@
 __build_info:
-  rime_version: 1.16.0
+  rime_version: 1.11.2
   timestamps:
-    default: 1768129037
-    default.custom: 1780469595
-    key_bindings: 1768129037
+    default: 1714847973
+    default.custom: 1780492564
+    key_bindings: 1714847973
     key_bindings.custom: 0
-    punctuation: 1768129037
+    punctuation: 1714847973
     punctuation.custom: 0
     wubi86_jidian_trad.custom: 0
-    wubi86_jidian_trad.schema: 1780470484
+    wubi86_jidian_trad.schema: 1780492564
 emoji:
   inherit_comment: false
   opencc_config: emoji.json
@@ -159,11 +159,6 @@ schema:
   name: "简入繁出"
   schema_id: wubi86_jidian_trad
   version: 1.0
-selector:
-  bindings:
-    ISO_Left_Tab: previous_candidate
-    "Shift+Tab": previous_candidate
-    Tab: next_candidate
 speller:
   auto_clear: max_length
   auto_select: true

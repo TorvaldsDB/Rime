@@ -1,13 +1,13 @@
 __build_info:
-  rime_version: 1.16.0
+  rime_version: 1.11.2
   timestamps:
-    default: 1768129037
-    default.custom: 1780469595
-    key_bindings: 1768129037
+    default: 1714847973
+    default.custom: 1780492564
+    key_bindings: 1714847973
     key_bindings.custom: 0
     numbers.custom: 0
-    numbers.schema: 1737560379
-    punctuation: 1768129037
+    numbers.schema: 1706700567
+    punctuation: 1714847973
     punctuation.custom: 0
 engine:
   processors:
@@ -130,11 +130,6 @@ schema:
   name: "大写数字"
   schema_id: numbers
   version: 1.2
-selector:
-  bindings:
-    ISO_Left_Tab: previous_candidate
-    "Shift+Tab": previous_candidate
-    Tab: next_candidate
 switches:
   - name: full_shape
     states: ["壹贰叁", "一二三"]

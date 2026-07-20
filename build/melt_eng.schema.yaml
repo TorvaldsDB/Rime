@@ -1,13 +1,13 @@
 __build_info:
-  rime_version: 1.16.0
+  rime_version: 1.11.2
   timestamps:
-    default: 1768129037
-    default.custom: 1780469595
-    key_bindings: 1768129037
+    default: 1714847973
+    default.custom: 1780492564
+    key_bindings: 1714847973
     key_bindings.custom: 0
     melt_eng.custom: 0
-    melt_eng.schema: 1780469588
-    punctuation: 1768129037
+    melt_eng.schema: 1780492564
+    punctuation: 1714847973
     punctuation.custom: 0
 algebra_common:
   - "derive/1([4-7|9])/$1teen/"
@@ -788,11 +788,6 @@ schema:
   name: "Easy English Nano"
   schema_id: melt_eng
   version: "2026-01-30"
-selector:
-  bindings:
-    ISO_Left_Tab: previous_candidate
-    "Shift+Tab": previous_candidate
-    Tab: next_candidate
 speller:
   algebra:
     - "derive/1([4-7|9])/$1teen/"
