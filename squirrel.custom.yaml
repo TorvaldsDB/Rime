@@ -97,9 +97,9 @@ patch:
       ascii_punct: true
     com.microsoft.VSCode:
       ascii_punct: true
+    com.apple.Safari:
+      ascii_punct: false
 #    com.coderforart.MWeb3: # MWeb
-#      ascii_mode: true
-#    com.apple.Safari: # Safari
 #      ascii_mode: true
 #    co.zeit.hyper: # 程序名
 #      ascii_mode: true # 对应的选项
@@ -110,3 +110,4 @@ patch:
 # ascii_mode: true：默认英文
 # ascii_mode: false：默认中文
 # ascii_punct: true：开启英文标点
+# ascii_punct: false：开启中文标点

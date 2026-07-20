@@ -2,10 +2,12 @@ __build_info:
   rime_version: 1.11.2
   timestamps:
     squirrel: 1714847973
-    squirrel.custom: 1715001788
+    squirrel.custom: 1784559853
 app_options:
   com.alfredapp.Alfred:
     ascii_punct: true
+  com.apple.Safari:
+    ascii_punct: false
   com.apple.Terminal:
     no_inline: true
   com.google.Chrome:
